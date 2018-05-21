@@ -1272,5 +1272,1193 @@
             "Una técnica de financiación que tiene que ver esencialmente con las operaciones de comercio interior y exterior."
         ],
         "correcta":1
-    }   
+    },
+    {
+        "tema":5,
+        "enunciado":"La definición de producción en sentido específico es:",
+        "respuestas":[
+            "A) Etapa concreta de la actividad económica de creación de valor que describe el proceso de transformación del nuevo valor, a partir de unas entradas de factores productivos.",
+            "B) Es la actividad económica global que desarrolla un agente o sistema económico por la que se crea un valor susceptible de transacción.",
+            "C) Es la cantidad de output o salidas obtenida de un proceso de producción en un tiempo.",
+            "D) Es la actividad económica internacional que desarrolla una persona"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"La definición de valor económico es:",
+        "respuestas":[
+            "A) Son los valores que pueden ser objetos de intercambio o transacción y que suelen medirse con arreglo al patrón dinero.",
+            "B) Cualidades soportadas por las cosas que nos rodean.",
+            "C) Son bienes económicos siempre y cuando sean objetos de intercambio limitados y poco abundantes",
+            "D) La relación de equivalencia entre dos divisas distintas."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"La definición de bienes económicos es:",
+        "respuestas":[
+            "A) Objetos que tienen valor. Pueden ser materiales, reales, tangibles o inmateriales.",
+            "B) Son bienes económicos siempre y cuando sean objetos de intercambio limitados y poco abundantes.",
+            "C) Objetos que soportan valores en general",
+            "D) Cualidades soportadas por las cosas que nos rodean."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"El subsistema de producción ha de realizarse en el siguiente orden:",
+        "respuestas":[
+            "A) Fuentes de aprovisionamiento, entradas, salidas, proceso, mercados.",
+            "B) Fuentes de aprovisionamiento, entradas, proceso, salidas, mercados.",
+            "C) Fuentes de aprovisionamiento, entradas, mercados, proceso, salidas.",
+            "D) Entradas, proceso, fuentes de aprovisionamiento, salidas, mercados."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":5,
+        "enunciado":"La Tecnología en el subsistema de producción es:",
+        "respuestas":[
+            "A) El conjunto de las diferentes técnicas de producción aplicables a una determinada actividad productiva",
+            "B) El conjunto de las diferentes expresiones matemáticas que relaciona las cantidades de factores empleados con la cantidad de producto obtenido.",
+            "C) Una asignatura impartida en la E.S.O.",
+            "D) El conjunto de los diferentes avances que se logran en las distintas actividades productivas."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"Los diversos tipos de procesos productivos existentes se agrupan según 4 maneras:",
+        "respuestas":[
+            "A) La extensión temporal, el precio de los productos, el tiempo transcurrido en el proceso y la forma de satisfacer la demanda",
+            "B) Los factores variables, la gama de productos obtenida, la configuración establecida para el proceso productivo y la forma de mostrarlo al cliente.",
+            "C) La extensión temporal, la gama de productos obtenida, el sentido genérico de la producción y el modo de restablecer los bienes obtenidos.",
+            "D) La extensión temporal, la gama de productos obtenida, la configuración establecida para el proceso productivo y la forma de satisfacer la demanda"    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":5,
+        "enunciado":"La producción múltiple según la gama de productos obtenida se caracteriza por:",
+        "respuestas":[
+            "A) independiente, compuesta o conjunta, y alternativa",
+            "B) independiente, simple y alternativa",
+            "C) independiente, simple y usual",
+            "D) dependent, simple y usual"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"Los objetivos de la dirección de la producción son:",
+        "respuestas":[
+            "A) Costes, entregas, calidad, flexibilidad y servicio.",
+            "B) Costes, entregas, calidad, flexibilidad y rentabilidad",
+            "C) Costes, entregas, calidad, servicio y rentabilidad",
+            "D) Costes, calidad, flexibilidad, rentabilidad y servicio."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"Las decisiones de producción pueden ser:",
+        "respuestas":[
+            "A) Sobre el proceso, la capacidad productiva, los recursos humanos, la calidad y los inventarios.",
+            "B) Sobre la capacidad productiva, el proceso, el factor trabajo, los inventarios y el transporte.",
+            "C) Sobre la calidad, el factor trabajo, la comunicación, los inventarios y el proceso.",
+            "D) Sobre los recursos humanos, la capacidad productiva, la estrategia, la comunicación y el proceso."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"La flexibilidad de una empresa hace referencia a:",
+        "respuestas":[
+            "A) La capacidad de proporcionar un adecuado servicio al cliente.",
+            "B) La habilidad para hacer frente de la forma más eficiente a las circunstancias cambiantes.",
+            "C) La capacidad de establecer unos criterios con los que guiar la empresa ante ciertas decisiones.",
+            "D) La habilidad para crear, desarrollar y controlar la calidad de sus productos a priori."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":5,
+        "enunciado":"La función de producción:",
+        "respuestas":[
+            "A) Es el conjunto de las diferentes técnicas de producción aplicables a una determinada actividad productiva",
+            "B) Es el encargado de satisfacer las necesidades del mercado.",
+            "C) Relaciona las cantidades de factores empleadas con la cantidad de producto obtenido según una técnica determinada",
+            "D) Se puede clasificar según su naturaleza y según su variabilidad"    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":5,
+        "enunciado":"Aquello que expresa el valor monetario de los bienes y servicios consumidos por la empresa es:",
+        "respuestas":[
+            "A) Bienes económicos.",
+            "B) Recursos.",
+            "C) Coste.",
+            "D) Capital."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":5,
+        "enunciado":"Las decisiones sobre el proceso son aquellas que...",
+        "respuestas":[
+            "A) Cuyo fin es definir la capacidad productiva adecuada de la empresa",
+            "B) Definen los objetivos del control de inventarios y establecer un sistema adecuado para su gestión y control.",
+            "C) Están relacionadas con el diseño, implementación, puesta a punto, etc",
+            "D) Afectan al comportamiento del trabajador, y a su rendimiento."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":5,
+        "enunciado":"¿En qué aspectos se han centrado tradicionalmente los objetivos a alcanzar por el subsistema productivo?",
+        "respuestas":[
+            "A) Coste,entregas,flexibilidad, calidad y servicio.",
+            "B) Coste,entregas,bienes y calidad",
+            "C) Coste,valores,flexibilidad y calidad",
+            "D) Ninguna de las anteriores."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"Los tipos de procesos productivos existentes se agrupan en los siguientes:",
+        "respuestas":[
+            "A) En base a la forma de satisfacer a la demanda y según la configuración del proceso productivo.",
+            "B) Según la configuración del proceso productivo.",
+            "C) Según la función de producción y la tecnología",
+            "D) Según la extensión temporal del proceso, en base a la gama de productos obtenida, según la configuración del proceso productivo y en base a la forma de satisfacer la demanda"    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":5,
+        "enunciado":"Los procesos productivos según la extensión temporal del proceso se divide en:",
+        "respuestas":[
+            "A) Producción continua y producción intermitente.",
+            "B) Producción continua y producción simple.",
+            "C) Producción intermitente y producción múltiple.",
+            "D) Producción continua, producción intermitente y producción múltiple."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"La producción para mercado o para almacén:",
+        "respuestas":[
+            "A) La empresa produce a partir de pedidos con las especificaciones del cliente.",
+            "B) Se divide en producción para el mercado en masa o granel y en series o lotes.",
+            "C) Es independiente, alternativa o compuesta",
+            "D) No requiere continuidad por causa de la naturaleza del proceso de producción."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":5,
+        "enunciado":"Los factores de producción los podemos clasificar por:",
+        "respuestas":[
+            "A) La calidad y la flexibilidad",
+            "B) Su naturaleza y su variabilidad",
+            "C) La tecnología y su variabilidad",
+            "D) la extensión temporal del proceso y según la configuración del proceso productivo"    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":5,
+        "enunciado":"La producción como resultado del proceso productivo se puede definir cómo:",
+        "respuestas":[
+            "A) Realizar la entrega en el menor tiempo posible.",
+            "B) LA capacidad de responder ante el cambio.",
+            "C) Es la cantidad de output o salidas obtenida de un proceso de producción en un tiempo dado.",
+            "D) El procedimiento de unos elementos determinados en un producto especifico."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":5,
+        "enunciado":"La produccion en sentido genérico es:",
+        "respuestas":[
+            "A) Es la actividad económica global de que desarrolla un agente o sistema económico por la que se crea un valor susceptible de transacción.",
+            "B) Etapa concreta de la actividad económica de creación de valor que describe el proceso de transformación del nuevo valor, a partir de unas entradas de factores productivos.",
+            "C) Es la cantidad de output o salidas obtenida de un proceso de producción en un tiempo dado.",
+            "D) Mediante la función de producción la empresa elabora bienes o servicios mediante el empleo de sus recursos humanos y materiales."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"El proceso productivo es:",
+        "respuestas":[
+            "A) Producción que se hace en cada turno.",
+            "B) Cantidad de riquezas que se hacen.",
+            "C) Cantidad de output o salidas obtenidas de un proceso de producción.",
+            "D) Control de un operario de piezas a fabricar."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":5,
+        "enunciado":"Los valores económicos:",
+        "respuestas":[
+            "A) Pueden ser objetos de intercambio o transacción y suelen medirse con arreglo al patrón dinero.",
+            "B) Objetos con valor económico.",
+            "C) Procesos con valor monetario.",
+            "D) Consisten en desembolsos económicos."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"El esquema del subistema de producción sigue el orden:",
+        "respuestas":[
+            "A) Fuente de aprovisionamiento, entradas, procesos, mercado, salidas.",
+            "B) Materias,entradas,salidas, ventas.",
+            "C) Materias, mercado, ventas, beneficios.",
+            "D) Fuente de aprovisionamiento, entradas, procesos, salidas, mercado."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"Las técnicas de producción aplicables a una determinada actividad productiva se le denominan:",
+        "respuestas":[
+            "A) Productividad",
+            "B) Calidad",
+            "C) Tecnología",
+            "D) Configuración."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":5,
+        "enunciado":"La producción múltiple consiste en:",
+        "respuestas":[
+            "A) Varios productos y subproductos diferenciados y técnicamente independientes entre sí.",
+            "B) Hacer muchos productos a la vez.",
+            "C) Producciones muy altas y costosas.",
+            "D) Producción realizada en un mes."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"Se llama proceso productivo:",
+        "respuestas":[
+            "A) Transformar unos elementos determinados en un producto específico.",
+            "B) Transformar la materia prima",
+            "C) Intervenir mecánicamente en el proceso.",
+            "D) Controlar la producción."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"La producción en una refinería o altos hornos será:",
+        "respuestas":[
+            "A) Producción intermitente.",
+            "B) Producción continua",
+            "C) Producción simple.",
+            "D) Ninguna de las anteriores."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":5,
+        "enunciado":"La calidad se lleva a cabo:",
+        "respuestas":[
+            "A) Definiendo unos parámetros para medir y controlar la producción.",
+            "B) A criterio del operario de producción.",
+            "C) Cuando se detecten defectos de producción.",
+            "D) Según el turno que se esté trabajando."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":5,
+        "enunciado":"El valor monetario de los bienes y servicios consumidos por la empresa para el desarrollo de su actividad se denomina:",
+        "respuestas":[
+            "Inventario",
+            "Valores económicos",
+            "Bienes",
+            "Costes"    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":6,
+        "enunciado":"El IPG es:",
+        "respuestas":[
+            "A) El Índice de Pontencia Global.",
+            "B) La Idea de Productos Grandes.",
+            "C) El Índice de Productividad Global.",
+            "D) La Internacional Productividad Global."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"La productividad es:",
+        "respuestas":[
+            "A) La capacidad para conservar productos.",
+            "B) La capacidad para producir que presenta cualquier factor.",
+            "C) La media de los productos vendidos.",
+            "D) La capacidad para eliminar productos."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":6,
+        "enunciado":"El fenómeno de la disminución de la productividad marginal recibe también el nombre de:",
+        "respuestas":[
+            "A) Decreto de las leyes económicas.",
+            "B) Ley de los rendimientos decrecientes.",
+            "C) Ley del índice de coste fijo.",
+            "D) Ley de la productividad creciente."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Qué determina el cociente producción total/cantidad de factor variable?",
+        "respuestas":[
+            "A) La productividad media",
+            "B) La productividad marginal.",
+            "C) La productividad mínima",
+            "D) La productividad total."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"La productividad marginal (PMA) se anula para:",
+        "respuestas":[
+            "A) Una masa despreciable.",
+            "B) Un volumen de producción total mínimo.",
+            "C) Un volumen de producción total máximo.",
+            "D) Una masa de grandes cantidades."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"Si analizamos gráficamente las funciones de productividad podemos encontrar:",
+        "respuestas":[
+            "A) Las rectas de producción total, productividad media y productividad marginal.",
+            "B) Las curvas de productividad total y producción marginal.",
+            "C) El área de la producción límite.",
+            "D) Las curvas de producción total, productividad media y productividad marginal."    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":6,
+        "enunciado":"Los factores empleados en la obtención del producto son:",
+        "respuestas":[
+            "A) Los materiales, la mano de obra y el equipo, los terrenos y edificios.",
+            "B) Las habilidades de las personas y la apariencia física de éstas.",
+            "C) La natalidad y mortalidad",
+            "D) La nutrición y los beneficios."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"Según el grado de variabilidad en la actividad empresarial podemos encontrar:",
+        "respuestas":[
+            "A) Los costes reales históricos o a posteriori.",
+            "B) Los costes directos e indirectos.",
+            "C) Los costes fijos y variables.",
+            "D) Los costes estándar, prospectivos o a priori."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"El cociente entre el coste fijo y el volumen de producción correspondiente es:",
+        "respuestas":[
+            "A) Coste marginal.",
+            "B) Coste variable medio o coste variable unitario.",
+            "C) Coste total medio o coste unitario total.",
+            "D) Coste fijo medio o coste fijo unitario"    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":6,
+        "enunciado":"La expresión monetaria de los consumos de factores aplicados a la actividad productiva es:",
+        "respuestas":[
+            "A) El coste.",
+            "B) El gasto.",
+            "C) El beneficio.",
+            "D) El capital fijo."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"La administración de la producción:",
+        "respuestas":[
+            "A) Estudia la forma de obtener objetivos asignados(relacionados con el ámbito productivo de forma racional.",
+            "B) Mide las salidas del sistema sin considerar los recursos aplicados.",
+            "C) Estudia la toma racional de decisiones con el fin de lograr objetivos con la mayor eficacia",
+            "D) Supervisa la correcta forma de producción de materiales."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Qué es la productividad?",
+        "respuestas":[
+            "A) Es la capacidad de cualquier factor o combinación de factores para producir.",
+            "B) Es la cantidad media producida por una empresa",
+            "C) Es el beneficio obtenido por cada unidad de producción.",
+            "D) Es el poder adquisitivo que tiene une determinada empresa"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Cuál de las siguientes razones influyen en que la productividad de la empresa en términos globales sea muy difícil?",
+        "respuestas":[
+            "A) Los costes de la luz y el gas.",
+            "B) Existencia de diferentes tipos de productos.",
+            "C) Que todos los productos producidos son prácticamente iguales.",
+            "D) La demanda de un determinado producto."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":6,
+        "enunciado":"La productividad marginal:",
+        "respuestas":[
+            "A) Depende y viene expresada por la medida del ángulo que forma la perpendicular de la curva de producción total en cada punto correspondiente a un determinado valor de A",
+            "B) Depende y viene expresada por la medida del ángulo que forma la tangente a la curva de producción total en cada punto correspondiente a un determinado valor de A)",
+            "C) Determina la función de producción media",
+            "D) Determina el máximo de la productividad total."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":6,
+        "enunciado":"A partir de donde la curva de costes variables totales presenta su punto de inflexión, la tangente tendría que trazarse:",
+        "respuestas":[
+            "A) Por debajo y no por encima y entonces el ángulo de referencia iría aumentando",
+            "B) Por encima y no por debajo y entonces el ángulo de referencia iría disminuyendo",
+            "C) Por encima y el ángulo de referencia permanecería intacto",
+            "D) Por debajo y el ángulo de referencia iría aumentando"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"La productividad depende:",
+        "respuestas":[
+            "A) De factores que inciden en ella como son: los materiales , la mano de obra, el equipo capital, los terrenos y los edificios.",
+            "B) Tan solo de los costes de producción.",
+            "C) Del diseño del producto exclusivamente.",
+            "D) Tan solo del sistema de planificación y del diseño del proceso."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"Gráficamente, los costes fijos se representan como:",
+        "respuestas":[
+            "Gráficamente, los costes fijos se representan como:",
+            "B) Una recta perpendicular al eje de abscisas",
+            "C) Una recta secante al eje de abscisas",
+            "D) Ninguna de las anteriores"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"El gasto se puede definir como:",
+        "respuestas":[
+            "A) El intercambio de dinero por productos.",
+            "B) La expresión monetaria de las adquisiciones de productos exclusivamente importados y no fabricados en la propia empresa",
+            "C) La expresión monetaria de las adquisiciones de factores que realiza una empresa en el desarrollo de su actividad y que da lugar a pagos.",
+            "D) La producción mínima mensual."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"El coste es:",
+        "respuestas":[
+            "A) La cantidad monetaria acumulada en el pago.",
+            "B) El valor de las cantidades de factores incorporados al proceso productivo.",
+            "C) El volumen de producción.",
+            "D) La expresión monetaria de las adquisiciones."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":6,
+        "enunciado":"Los costes físicos son:",
+        "respuestas":[
+            "A) Aquellos que permanecen invariables respecto al volumen producido dentro de una determinada estructura de producción.",
+            "B) El equivalente monetario de los consumos de factores que varían en función del volumen producido o del tiempo de transformación.",
+            "C) Equivalente monetario de todos los servicios realizados por la empresa",
+            "D) Valor que alcanza la producción total."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Qué aspectos tienen en cuenta las medidas de eficiencia?",
+        "respuestas":[
+            "A) Compara las salidas del sistema con el volumen de factores que han sido necesarios en su obtención en términos cuantitativos físicos.",
+            "B) Compara las salidas del sistema con el volumen de factores que han sido necesarios en su obtención en términos cuantitativos monetarios.",
+            "C) Ambas respuestas son correctas.",
+            "D) Ninguna de las respuestas anteriores son correctas."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Qué es la productividad?",
+        "respuestas":[
+            "A) Capacidad de demandar un tipo de producto.",
+            "B) Capacidad de transportar un tipo de producto.",
+            "C) Capacidad para producir que presenta cualquier factor o combinación de factores.",
+            "D) Ninguna de las respuestas anteriores."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"Señala la afirmación correcta:",
+        "respuestas":[
+            "A) El índice de productividad global se nombra IDPG.",
+            "B) La productividad media es la producción obtenida por unidad de tiempo en relación al número de unidades empleadas del factor considerado.",
+            "C) La productividad global es el resultado de dividir el valor de los factores empleados entre el valor de la productividad obtenida",
+            "D) La productividad marginal es el decrecimiento de producción obtenido en cada unidad de tiempo."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":6,
+        "enunciado":"La productividad marginal se anula:",
+        "respuestas":[
+            "A) Cuando los beneficios superan las perdidas.",
+            "B) Para un volumen de producción total máximo.",
+            "C) Al llegar al punto muerto.",
+            "D) Ninguna de las anteriores."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":6,
+        "enunciado":"En la curva de productividad marginal se distinguen 3 zonas diferenciadas:",
+        "respuestas":[
+            "A) creciente, decreciente y negativa",
+            "B) creciente, superlativa y decreciente.",
+            "C) estable, creciente y negativa",
+            "D) longitudinal, perpendicular y oblicua"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"Uno de los factores que constituye un factor determinante para una empresa es la productividad; ¿qué medida adoptarías para poder reducir los gastos en este ámbito?",
+        "respuestas":[
+            "A) Contratar a personal capacitado y motivarlos, para que la calidad sea óptima y aumentar el número de productos elaborados.",
+            "B) Contratar mano de obra económica sin importar su formación, tienen tiempo para aprender.",
+            "C) Adquirir una planta de bajo coste sin tener en cuenta su ubicación.",
+            "D) No invertir en el diseño de los productos ya que es un gasto innecesario."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Qué es el coste total medio?",
+        "respuestas":[
+            "A) Es el cociente entre el coste total y el número de unidades producidas correspondientes a dicho coste total.",
+            "B) Es el cociente entre el coste marginal y el número de unidades producidas correspondientes a dicho coste total.",
+            "C) Es el cociente entre el coste fijo medio y el número de unidades producidas correspondientes a dicho coste total.",
+            "D) Es el cociente entre los costes indirectos y el número de unidades producidas correspondientes a dicho coste total."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Qué es el coste fijo medio?",
+        "respuestas":[
+            "A) Es el efecto o variación producida en el coste total como consecuencia de incrementar la producción en una unidad más.",
+            "B) Es el cociente entre el coste marginal y el número de unidades producidas correspondientes a dicho coste total.",
+            "C) Es el cociente entre el coste total y el número de unidades producidas correspondientes a dicho coste total.",
+            "D) Es el cociente entre el coste fijo y el volumen de producción correspondiente."    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Qué es el coste marginal?",
+        "respuestas":[
+            "A) Es el cociente entre los costes indirectos y el número de unidades producidas correspondientes a dicho coste total.",
+            "B) Es el cociente entre el coste total y el número de unidades producidas correspondientes a dicho coste total.",
+            "C) Es el cociente entre el coste fijo y el volumen de producción correspondiente.",
+            "D) Ninguna afirmación anterior es correcta"    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":6,
+        "enunciado":"Definición de coste variable medio:",
+        "respuestas":[
+            "A) Es el efecto o variación producida en el coste total como consecuencia de incrementar la producción en una unidad más.",
+            "B) Es el cociente entre el coste variable y el volumen de producción correspondiente.",
+            "C) Es el cociente entre el coste total y el número de unidades producidas correspondientes a dicho coste total.",
+            "D) Ninguna afirmación anterior es correcta"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"La eficacia:",
+        "respuestas":[
+            "A) mide las entradas del sistema pero no considera los recursos aplicados a su obtención.",
+            "B) mide las salidas del sistema y considera los recursos aplicados a su obtención.",
+            "C) mide las salidas del sistema pero no considera los recursos aplicados a su obtención.",
+            "D) mide las entradas del sistema y considera los recursos aplicados a su obtención."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"La administración de producción estudia:",
+        "respuestas":[
+            "A) la toma racional de decisiones en el ámbito económico.",
+            "B) la forma de enriquecer una empresa",
+            "C) la toma racional de decisiones en el ámbito productivo.",
+            "D) el sentido que tiene la venta de los productos medios."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"Se denomina productividad media:",
+        "respuestas":[
+            "A) a la unidad de factores producida entre la unidad de factores empleada",
+            "B) al valor de la producción obtenida entre el valor de los factores empleados.",
+            "C) a la unidad de factores empleada entre la unidad de factores producida",
+            "D) al valor de los factores empleados entre el valor de la producción obtenida"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"Se denomina productividad marginal:",
+        "respuestas":[
+            "A) al incremento de producción obtenido en cada unidad de tiempo debido al decremento de una unidad en la cantidad de factor empleada",
+            "B) al incremento de producción obtenido en cada unidad de tiempo debido al incremento de una unidad en la cantidad de factor empleada",
+            "C) al decremento de producción obtenido en cada unidad de tiempo debido al decremento de una unidad en la cantidad de factor empleada",
+            "D) al decremento de producción obtenido en cada unidad de tiempo debido al incremento de una unidad en la cantidad de factor empleada"    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":6,
+        "enunciado":"Se define la productividad como:",
+        "respuestas":[
+            "A) la capacidad de medida que presenta cualquier factor o combinación de factores.",
+            "B) las unidades de factores empleadas.",
+            "C) la existencia de tipos diferentes de productos.",
+            "D) la capacidad para producir que presenta cualquier factor o combinación de factores."    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Cuántas zonas se pueden distinguir en la curva de productividad marginal?",
+        "respuestas":[
+            "A) Primera zona (productividad marginal decreciente), segunda zona (productividad marginal decreciente), tercera zona (productividad marginal negativa).",
+            "B) Primera zona (productividad marginal decreciente), segunda zona (productividad marginal creciente), tercera zona (productividad marginal positiva).",
+            "C) Primera zona (productividad marginal creciente), segunda zona (productividad marginal decreciente), tercera zona (productividad marginal negativa).",
+            "D) Primera zona (productividad marginal creciente), segunda zona (productividad marginal decreciente), tercera zona (productividad marginal positiva)."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"La curva de producción total:",
+        "respuestas":[
+            "A) En el segundo tramo, desde el punto de inflexión hasta que alcanza el máximo, es convexa",
+            "B) En el primer tramo, hasta llegar a su punto de inflexión es cóncava",
+            "C) En el tercer tramo, desde que alcanza el máximo hasta el final, sigue una trayectoria ascendente.",
+            "D) En el primer tramo, hasta llegar a su punto de inflexión es convexa"    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":6,
+        "enunciado":"El diseño del producto obliga a:",
+        "respuestas":[
+            "A) usar procesos baratos y lentos.",
+            "B) usar procesos costosos y rápidos.",
+            "C) usar procesos baratos y rápidos.",
+            "D) usar procesos costosos y lentos."    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":6,
+        "enunciado":"El coste total medio o coste unitario total, proviene del cociente de:",
+        "respuestas":[
+            "A) variación del coste total entre la variación de cantidad producida",
+            "",
+            "",
+            "D) coste variable entre el volumen de producción correspondientes."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":6,
+        "enunciado":"¿El concepto de coste y gasto son sinónimos?",
+        "respuestas":[
+            "A) Sí, son conceptos económicos. Significan lo mismo.",
+            "B) No, el coste tiene que ver con la adquisición de medios o factores de producción, mientras que los gastos tienen que ver con la realización del proceso productivo.",
+            "C) Sí, porque aunque el gasto tiene que ver con la adquisición de factores de producción y los costes con la utilización o consumo de dichos factores, al final son iguales, lo único que cambia es el tiempo en que se realizan o llevan a cabo.",
+            "D) No, porque el gasto tiene que ver con el momento de la adquisición de los recursos o factores de producción y los costes tienen que ver con la utilización o consumo de dichos factores o recursos en el proceso de producción y por tanto el coste puede llevar incorporado otros gastos procedentes de la adquisición."    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Qué factores mide la eficacia?",
+        "respuestas":[
+            "A) Las salidas del sistema sin considerar los recursos aplicados a su obtención.",
+            "B) Las salidas del sistema considerando los recursos aplicados a su obtención.",
+            "C) Sólo los recursos aplicados a la obtención de la producción.",
+            "D) El tiempo que tardan en producirse los factores productivos."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Cuál de las siguientes afirmaciones es correcta?",
+        "respuestas":[
+            "A) El IPG es una comparación de los costes entre un período y otro.",
+            "B) La productividad media es la producción obtenida por unidad de tiempo en relación al número de unidades empleadas en su obtención.",
+            "C) El IPG se calcula mediante la resta entre la productividad entre dos períodos cualesquiera",
+            "D) Se denomina productividad marginal a las variaciones de la productividad"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"La curva de productividad total:",
+        "respuestas":[
+            "A) En el primer tramo presenta una trayectoria descendente.",
+            "B) En el segundo tramo llega desde el punto de inflexión hasta el mínimo de la curva",
+            "C) En el tercer tramo presenta una trayectoria descendente.",
+            "D) En el primer tramo presenta valores negativos."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"La curva de productividad media:",
+        "respuestas":[
+            "A) Se obtiene como resultado de la derivada de la curva de productividad total.",
+            "B) Se caracteriza por presentar dos tramos, siendo el primero descendente hasta llegar al mínimo y el segundo ascendente.",
+            "C) Se obtiene como resultado de la apertura o tangente trigonométrica de la curva de productividad total.",
+            "D) Se obtiene como resultado de la media entre las distintas productividades."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"La curva de productividad marginal:",
+        "respuestas":[
+            "A) Depende y viene expresada por la medida del ángulo que forma la tangente a la curva de producción total en cada punto.",
+            "B) Posee tres zonas en el siguiente orden: productividad marginal decreciente, productividad marginal creciente y productividad marginal negativa",
+            "C) Representa la trayectoria de los recursos que no han sido considerados en el cálculo de la productividad total.",
+            "D) Si es menor que la productividad media en el mismo punto esta última crece, mientras que si es al contrario ésta última decrece."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":6,
+        "enunciado":"La productividad:",
+        "respuestas":[
+            "A) Está condicionada solamente por materiales, terrenos, tecnología y empresarios.",
+            "B) Al disminuir significa la posibilidad de obtener mejores rendimientos que los aplicados a la actividad económica",
+            "C) Depende únicamente del ámbito productivo sin necesidad de aplicar a todos los subsistemas empresariales.",
+            "D) Mide la eficiencia de un proceso productivo en términos físicos."    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Cuál de las siguientes afirmaciones es correcta?",
+        "respuestas":[
+            "A) Cuando se eligen y diseñan los productos y procesos es necesario elegir aquellos que impliquen un gran consumo de materiales.",
+            "B) Los tiempos improductivos pueden producirse debido a deficiencias en el diseño del producto, por subempleos, por normas demasiado exigentes...",
+            "C) Para que el diseño del proceso sea correcto es necesario que el terreno sea lo más grande posible para no tener problemas a la hora de producir.",
+            "D) La capacidad de las máquinas no influye en la productividad, ya que sólo se necesitan aquellas que sean capaces de realizar la tarea"    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":6,
+        "enunciado":"El coste:",
+        "respuestas":[
+            "A) Se define como la expresión monetaria de las adquisiciones de factores que realiza la empresa en el desarrollo de su actividad",
+            "B) Coincide con el precio de pagado por un factor.",
+            "C) Se define como la expresión monetaria de los consumos de factores aplicados a la actividad productiva",
+            "D) Ninguna de las respuestas anteriores es correcta"    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Cuál de las siguientes clasificaciones de los costes es la correcta?",
+        "respuestas":[
+            "A) Según el grado de variabilidad se puede distinguir entre: costes fijos y costes móviles.",
+            "B) Según la naturaleza de los factores que los originan: costes de materias primas, de mano de obra etc",
+            "C) Según el patrón de información para su cálculo: costes directos e indirectos.",
+            "D) Según la certeza de la vinculación del consumo de factores a los productos: Costes históricos y costes prospectivos."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":6,
+        "enunciado":"¿Cuál de las siguientes respuestas es la correcta?",
+        "respuestas":[
+            "A) El coste total medio se obtiene sumando el precio de todos los factores comprados.",
+            "B) El coste marginal es la variación producida en el coste fijo medio a consecuencia del incremento de la producción en una unidad más.",
+            "C) El coste variable medio es el cociente entre el coste variable y el volumen de producción correspondiente.",
+            "D) El coste fijo medio puede obtenerse a través de la derivada de la función costes fijos totales para un volumen de producción dado."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":8,
+        "enunciado":"¿A qué hace referencia el concepto de dimensión de empresa?",
+        "respuestas":[
+            "A) volumen de producción",
+            "B) volumen de ventas",
+            "C) tamaño de la empresa",
+            "D) ninguna de las anteriores"    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":8,
+        "enunciado":"Según Hoover, ¿ es el volumen de reservas directamente proporcional al número de unidades producidas?",
+        "respuestas":[
+            "A) sí",
+            "B) no",
+            "C) no tienen relación",
+            "D) ninguna de las anteriores"    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":8,
+        "enunciado":"¿Cuál de estos no es un principio de Hoover?",
+        "respuestas":[
+            "A) acumulación de reservas",
+            "B) múltiplos",
+            "C) operaciones al por mayor",
+            "D) valor multicriterio"    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":8,
+        "enunciado":"¿Qué otro nombre se le da al punto muerto?",
+        "respuestas":[
+            "A) punto rentable",
+            "B) punto de equilibrio",
+            "C) umbral de rentabilidad",
+            "D) ninguna de las anteriores"    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":8,
+        "enunciado":"¿En qué unidades se suele expresar el punto muerto?",
+        "respuestas":[
+            "A) unidades físicas",
+            "B) porcentaje de producción",
+            "C) relación producción-venta",
+            "D) ninguna de las anteriores"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":8,
+        "enunciado":"¿Es el coste variable medio lo mismo que el coste variable unitario?",
+        "respuestas":[
+            "no",
+            "sí",
+            "C) no, el coste variable unitario es el coste fijo menos el precio de venta",
+            "D) ninguna de las anteriores"    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":8,
+        "enunciado":"¿Qué dimensión ha de tener una empresa para beneficiarse de las economías de escala?",
+        "respuestas":[
+            "A) mediana",
+            "B) pequeña",
+            "C) grande",
+            "D) cualquier dimensión"    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":8,
+        "enunciado":"Según Fernández Pirla, la dimensión no se puede relacionar con este aspecto:",
+        "respuestas":[
+            "A) comercial",
+            "B) financiero",
+            "C) económico",
+            "D) tecnológico"    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":8,
+        "enunciado":"Gráficamente, la rama decisional de un árbol de decisión se dibuja como:",
+        "respuestas":[
+            "A) una flecha discontinua",
+            "B) un trazo punto-raya",
+            "C) una flecha continua",
+            "D) una línea en espiral"    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":8,
+        "enunciado":"La definición de valor multicriterio es:",
+        "respuestas":[
+            "A) El que resulta de la combinación de varios criterios individuales adecuadamente ponderados.",
+            "B) Valor de orden obtenido por la empresa con el criterio i.",
+            "C) Ponderación del criterio i.",
+            "D) Valor que representa el volumen de beneficios."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":8,
+        "enunciado":"Los principios de Hoover son:",
+        "respuestas":[
+            "A) Principio de los múltiplos, principio de la acumulación de reservas y principio de economías de escala",
+            "B) Principio de los múltiplos y principio de las operaciones al por mayor.",
+            "C) Principio de los múltiplos, principio de la acumulación de reservas y principio de las operaciones al por mayor.",
+            "D) Principio de los múltiplos, principio de las operaciones al por mayor y principio de economías de escala"    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":8,
+        "enunciado":"El punto muerto se define como:",
+        "respuestas":[
+            "A) Punto de equilibrio que determina el volumen de demanda y ventas.",
+            "B) Punto de equilibrio que determina el volumen de producción y ventas.",
+            "C) Punto de equilibrio que determina los ingresos totales y los costes fijos.",
+            "D) Punto de equilibrio que determina los ingresos totales y el coste variable unitario."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":8,
+        "enunciado":"¿Para qué se emplea la expresión apalancamiento operativo?",
+        "respuestas":[
+            "A) Para referirse al modo en que un determinado cambio en el volumen de ventas afecta al volumen de beneficios.",
+            "B) Para referirse al modo en que un determinado cambio en el volumen de ventas afecta al volumen de demanda",
+            "C) Para referirse al modo en que un determinado cambio en el volumen de demanda afecta al volumen de beneficios.",
+            "D) Para referirse al modo en que un determinado cambio en el volumen de costes afecta al volumen de beneficios."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":8,
+        "enunciado":"El margen de cobertura se define como:",
+        "respuestas":[
+            "A) El punto donde empieza a obtenerse beneficios, ya que por debajo incurre pérdidas.",
+            "B) El cambio en el volumen de ventas que afecta al volumen de beneficios.",
+            "C) La contribución al beneficio de cada unidad producida y vendida por la empresa",
+            "D) El cambio en el volumen de beneficios que afecta al volumen de ventas."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":8,
+        "enunciado":"¿Cuál de estos conceptos no se incluye entre los dependientes de la estructura de coste de la empresa, y por tanto, relacionados con la dimensión de la misma?",
+        "respuestas":[
+            "A) Punto muerto.",
+            "B) Margen de cobertura",
+            "C) Grado de apalancamiento operativo.",
+            "D) Coeficiente de cobertura"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":8,
+        "enunciado":"Según Fernández Pirla, ¿Cuál de estos aspectos no se relacionan con la dimensión?",
+        "respuestas":[
+            "A) Aspecto tecnológico.",
+            "B) Aspecto financiero.",
+            "C) Aspecto comercial.",
+            "D) Aspecto económico."    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":8,
+        "enunciado":"¿Qué es la remanencia o el histéresis de los costes?",
+        "respuestas":[
+            "A) Los costes fijos que corresponden al conjunto del proceso.",
+            "B) Los costes variables medios correspondientes a cada producto.",
+            "C) Alusión al hecho de que la función de costes no es exactamente reversible.",
+            "D) La relación entre el margen de cobertura y el precio de venta"    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":8,
+        "enunciado":"¿Cuáles son las fases que se deben seguir en el proceso de determinación de la capacidad productiva de una organización?",
+        "respuestas":[
+            "A) Previsión de la demanda, determinación de la capacidad productiva, establecimiento de alternativas y evaluación y selección.",
+            "B) Previsión de la demanda, determinación de la capacidad productiva, establecimiento de alternativas y arboles de decisión.",
+            "C) Previsión de la demanda, determinación de la capacidad productiva, evaluación y selección y arboles de decisión.",
+            "D) Previsión de la demanda, evaluación y selección, establecimiento de alternativas y arboles de decisión."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":8,
+        "enunciado":"¿Cuáles son los elementos que se utilizan para el diseño del árbol de decisión?",
+        "respuestas":[
+            "A) Nudo aleatorio, nudo decisional, rama aleatoria y rama decisional.",
+            "B) Nudo aleatorio, nudo direccional, rama aleatoria y rama direccional.",
+            "C) Nudo decisional, nudo direccional, rama deciosional y rama direccional.",
+            "D) Nudo direccional, nudo aleatorio, rama direccional y rama decisional."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":9,
+        "enunciado":"El problema de la localización de planta puede definirse como:",
+        "respuestas":[
+            "A) Determinación del lugar que considerados todos los factores, ocasionará el coste mínimo del producto a fabricar, objetivo obtener los máximos beneficios, proporcionando la máxima satisfacción a sus clientes.",
+            "B) Determinación del lugar que considerados todos los factores, ocasionará el coste mínimo del producto a fabricar, objetivo obtener los máximos beneficios y la mínima distancia de transporte.",
+            "C) Determinación del lugar que considerados todos los factores, ocasionará el coste mínimo del producto a fabricar, objetivo obtener los máximos beneficios y la cercanía a la materia prima",
+            "D) Determinación del lugar que considerados todos los factores, ocasionará el coste mínimo del producto a fabricar, objetivo obtener los máximos beneficios y la cercanía al punto de distribución."    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":9,
+        "enunciado":"Una vez determinada y justificada la necesidad de realizar un estudio de localización el primer paso será:",
+        "respuestas":[
+            "A) Acudir a agencias gubernamentales.",
+            "B) Acudir a agencias de transporte.",
+            "C) Hacer una observación directa del terreno.",
+            "D) Crear un equipo multifuncional."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":9,
+        "enunciado":"Las diversas opciones para la localización de la planta son plantas orientadas al:",
+        "respuestas":[
+            "A) Producto, mercado y proceso.",
+            "B) Propósito general, proceso y producto.",
+            "C) Producto, mercado, proceso y propósito general.",
+            "D) Producto, mercado, proceso y transporte."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":9,
+        "enunciado":"En la toma de decisión sobre la localización de la planta los pasos a seguir son:",
+        "respuestas":[
+            "A) Análisis preliminar, evaluación detallada de las alternativas.",
+            "B) Análisis preliminar, búsqueda de alternativas, evaluación de las alternativas y selección de la localización.",
+            "C) Análisis exhaustivos, búsqueda de alternativas y selección de localización.",
+            "D) Análisis preliminar, búsqueda de alternativas, evaluación de las alternativas, exploración del terreno y selección de la localización."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":9,
+        "enunciado":"Las fuentes de abastecimiento se localizan según qué criterios:",
+        "respuestas":[
+            "A) Asegurarse el abastecimiento, inputs difíciles de transportar sin merma de sus cualidades, economía en el transporte.",
+            "B) Asegurarse el abastecimiento, inputs difíciles de transportar sin merma de sus cualidades, economía en el transporte y el clima",
+            "C) Asegurarse el abastecimiento, inputs difíciles de transportar sin merma de sus cualidades, economía en el transporte y la legislación vigente.",
+            "D) Asegurarse el abastecimiento, inputs difíciles de transportar sin merma de sus cualidades, economía en el transporte cercanía de mano de obra)"    
+        ],
+        "correcta":0
+    },
+    {
+        "tema":9,
+        "enunciado":"La localización de los mercados también ha de tenerse en cuenta por:",
+        "respuestas":[
+            "A) Si los productos son frágiles, coste del transporte, el tipo de producto.",
+            "B) Rapidez de entrega del producto, si los productos son frágiles, coste del transporte, el tipo de producto y actitud política hacia la empresa)",
+            "C) Rapidez de entrega del producto, si los productos son frágiles, coste del transporte, el tipo de producto.",
+            "D) Rapidez de entrega del producto, si los productos son frágiles, coste del transporte, el tipo de producto y la calidad de vida de las cercanías."    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":9,
+        "enunciado":"Las características del factor mano de obra son:",
+        "respuestas":[
+            "A) Efectivos suficientes, formación de la mano de obra, coste, grado de sindicalización.",
+            "B) Efectivos suficientes, formación de la mano de obra, grado de sindicalización y actitudes ante el trabajo.",
+            "C) Efectivos suficientes, coste, grado de sindicalización y actitudes ante el trabajo.",
+            "D) Efectivos suficientes, formación de la mano de obra, coste, grado de sindicalización y actitudes ante el trabajo."    
+        ],
+        "correcta":3
+    },
+    {
+        "tema":9,
+        "enunciado":"Los criterios para el análisis coste-volumen son:",
+        "respuestas":[
+            "A) Cálculo de los costes fijos, representarlos gráficamente y seleccionar el coste mínimo.",
+            "B) Cálculo de los costes fijos y variables, representarlos gráficamente y seleccionar el coste mínimo.",
+            "C) Cálculo de los costes fijos y variables, representarlos gráficamente, hallar los máximos funcionales y seleccionar el coste mínimo",
+            "D) Cálculo de los costes fijos y variables y seleccionar el coste mínimo."    
+        ],
+        "correcta":1
+    },
+    {
+        "tema":9,
+        "enunciado":"Los criterios de incertidumbre se usan cuando:",
+        "respuestas":[
+            "A) Previamente al análisis coste-volumen.",
+            "B) Sobre la localización de los mercados.",
+            "C) Cuando no se tiene suficiente información para asignar probabilidades.",
+            "D) Cuando la probabilidad es muy baja"    
+        ],
+        "correcta":2
+    },
+    {
+        "tema":9,
+        "enunciado":"Los principales grupos de factores que afectan a la localización son:",
+        "respuestas":[
+            "A) Fuentes de abastecimiento, mercados, medios de transporte, mano de obra, suministros básicos, calidad de vida, clima, legislación, impuestos y servicios públicos, actitudes hacia la empresa, terrenos-construcción y otros.",
+            "B) Fuentes de abastecimiento, mercados, medios de transporte, mano de obra, suministros básicos, calidad de vida, legislación, impuestos y servicios públicos, actitudes hacia la empresa, terrenos-construcción y otros.",
+            "C) Fuentes de abastecimiento, mercados, medios de transporte, mano de obra, suministros básicos, calidad de vida, clima, legislación, impuestos y servicios públicos, actitudes hacia la empresa y terrenos-construcción.",
+            "D) Fuentes de abastecimiento, mercados, medios de transporte, mano de obra, suministros básicos, clima, legislación, impuestos y servicios públicos, actitudes hacia la empresa, terrenos-construcción y otros."    
+        ],
+        "correcta":0
+    }
 ]
