@@ -1,0 +1,44 @@
+body{
+    background: #EEEFF1;
+}
+
+.Enunciado{
+    padding: 2rem;
+    margin: 1rem;
+    min-height: 190px;
+    background: white;
+    color: #777;
+}
+
+.Enunciado_tema{
+    font-size: 1.5rem;
+    color: #999
+}
+
+.Enunciado_pregunta{
+    font-size: 2rem;
+    color:#333;
+}
+
+.Boton{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Boton_siguiente{
+    margin: 1rem;
+}
+
+.respuesta{
+    padding: 2rem;
+    box-shadow: 0px 0px 5px 1px #aaa;
+}
+
+.respuesta:hover{
+    cursor: pointer;
+}
+
+.default{
+    background: white;
+    color:#777;
+}

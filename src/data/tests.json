@@ -1,0 +1,1276 @@
+[
+    {
+        "tema":1,
+        "enunciado":"¿Qué representa la curva de transformación?",
+        "respuestas":["Refleja las cantidades máximas de bienes y servicios que una empresa es capaz de producir",
+                    "Refleja la cantidad de ingresos en una empresa en un momento determinado",
+                    "Refleja lo mismo que la curva de oferta-demanda",
+                    "Representa la transformación de la materia prima en una fábrica para producir los productos"],
+        "correcta":0
+    },
+    {
+        "tema":1,
+        "enunciado":"En la curva de transformación ¿qué representan los puntos interiores?",
+        "respuestas":[
+            "Las posibles combinaciones eficientes.",
+            "Pares no posibles ya sea porque los recursos disponibles no están siendo utilizados de forma optima o porque de ellos permanecen ociosos.",
+            "La producción máxima",
+            "Valores no alcanzables dado el volumen de recursos disponibles."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":1,
+        "enunciado":"Los problemas económicos fundamentales se resumen en el planteamiento de dos problemas principales:",
+        "respuestas":[
+            "El problema de la asignación y de la distribución.",
+            "El problema económico y de los consumidores.",
+            "El problema de los productores y consumidores.2",
+            "El problema de los productores y de la distribución."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":1,
+        "enunciado":"¿Qué se entiende por sistema economico?",
+        "respuestas":[
+            "Forma de organizar la productividad de una empresa",
+            "Forma de distribuir los distintos beneficios entre los inversores",
+            "Forma de organizar las relaciones entre distintos elementos de la realidad economica",
+            "Forma de gestionar una empresa por parte de director de la misma"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":1,
+        "enunciado":"¿Qué son agentes económicos?",
+        "respuestas":[
+            "Personas que controlan la actividad económica de un pais",
+            "Unidades que participan en la actividad de un país y que integran su sistema económico",
+            "Personas que se dedican a perseguir el fraude empresarial",
+            "Unidades que controlan y gestionan el sistema económico"
+        ],
+        "correcta":1
+    },
+    {
+        "tema":1,
+        "enunciado":"La economías domésticas son unidades de:",
+        "respuestas":[
+            "Producción.",
+            "Control y regulación.",
+            "Consumo.",
+            "Mercado."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":1,
+        "enunciado":"Definición de demanda rígida:",
+        "respuestas":[
+            "Ante pequeñas variaciones del precio la cantidad demandada varía en gran proporción.",
+            "La cantidad consumida del producto no varía pero sí el precio.",
+            "La cantidad consumida del producto no varía al variar el precio.",
+            "Son ventas a precios desproporcionados."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":1,
+        "enunciado":"Si nos encontramos ante una curva de demanda normal, la cantidad adquirida de bien o servicio disminuye:",
+        "respuestas":[
+            "A medida que su precio aumenta",
+            "Si su precio disminuye.",
+            "Si el precio es constante.",
+            "La cantidad adquirida de bien nunca puede disminuir."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":1,
+        "enunciado":"El efecto Veblen está referido a:",
+        "respuestas":[
+            "Alimentos.",
+            "Productos de lujo.",
+            "Productos de primera necesidad",
+            "Automóviles."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":1,
+        "enunciado":"¿Cuál de las siguientes respuestas NO desplazará la curva a la derecha(a cada precio la cantidad demandada es mayor)?",
+        "respuestas":[
+            "Un aumento en el nivel de renta",
+            "Un aumento en el precio de los bienes sustitutivos",
+            "Un cambio en los gustos a favor del bien",
+            "Un gran aumento del desempleo"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":1,
+        "enunciado":"La Frontera de Posibilidades de Producción (FPP) se define como el conjunto de combinaciones de factores productivos o tecnologias en los que se alcanza:",
+        "respuestas":[
+            "La producción máxima",
+            "La producción mínima",
+            "La producción equilibrada",
+            "No existe producción."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":1,
+        "enunciado":"El sujeto que lleva la iniciativa y la responsabilidad en las economías de mercado es:",
+        "respuestas":[
+            "El estado",
+            "El individuo",
+            "El empresario",
+            "El mercado"
+        ],
+        "correcta":1
+    },
+    {
+        "tema":1,
+        "enunciado":"La finalidad de las actividades económicas en las economías planificadas es:",
+        "respuestas":[
+            "Maximizar la utilidad individual y el beneficio empresarial.",
+            "Beneficiar al empresario por encima del beneficio colectivo.",
+            "Maximizar el beneficio colectivo.",
+            "Maximizar la producción de bienes."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":1,
+        "enunciado":"Los procedimientos de organización en las economías de mercado son:",
+        "respuestas":[
+            "Planificación.",
+            "El mercado basado en la libertad de contratación y la propiedad privada",
+            "El mercado basado en la propiedad privada",
+            "La planificación en el pan de contratación."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":1,
+        "enunciado":"Todos los sistemas económicos existentes en la actualidad son:",
+        "respuestas":[
+            "Economías de mercado y economías planificadas.",
+            "Economías mixtas y economías de mercado.",
+            "Economías de mercado, economías mixtas y economías de producción.",
+            "Economías de mercado, economías mixtas y economías planificadas."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":1,
+        "enunciado":"Las unidades que participan en la actividad económica en un país y que integran su sistema económico son:",
+        "respuestas":[
+            "Los agentes sociales.",
+            "Los agentes culturales.",
+            "Los agentes económicos.",
+            "Las empresas."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":1,
+        "enunciado":"Los distintos agentes económicos se clasifican en:",
+        "respuestas":[
+            "Economías domesticas, empresas y sector público.",
+            "El mercado, la empresa y organizaciones humanitarias.",
+            "Economía domestica, servicios sociales y sector publico.",
+            "Empresas e Inversores."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":1,
+        "enunciado":"Todo sistema económico debe cumplir unas operaciones básicas:",
+        "respuestas":[
+            "Producción y consumo.",
+            "Intercambio, producción y consumo.",
+            "Producción, consumo y trabajo.",
+            "Ninguna es correcta."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":1,
+        "enunciado":"Existen casos en los que la demanda crece a medida que se encarece el producto, puede ser debido a:",
+        "respuestas":[
+            "Efecto de bienes.",
+            "Efecto Roblen.",
+            "Efecto expectativa.",
+            "Efecto restitución."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":1,
+        "enunciado":"La curva de demanda de mercado se obtiene mediante:",
+        "respuestas":[
+            "La suma horizontal de las cantidades demandadas por las unidades de consumo a cada precio.",
+            "El cociente entre las cantidades demandadas y las unidades de consumo a cada precio.",
+            "El producto de las cantidades demandadas por las unidades de consumo a cada precio.",
+            "Ninguna de las anteriores es correcta."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":1,
+        "enunciado":"¿Cómo podemos definir la economía de la forma más amplia y acertada?",
+        "respuestas":[
+            "Conjunto de acciones que se toman para conseguir aumentar nuestros beneficios.",
+            "Ciencia social y empírica que se ocupa de los fenómenos relacionados con la actividad racional del hombre, que se dirige a la satisfacción de las necesidades humanas con medios escasos susceptibles de usos alternativos.",
+            "Ciencia que se dedica a estudiar los métodos a seguir para aumentar nuestro capital.",
+            "Se dedica a estudiar las relaciones financieras que existen en la sociedad."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":1,
+        "enunciado":"¿Qué es la Frontera de Posibilidades de Producción?",
+        "respuestas":[
+            "Es el volumen total de productos que pueden ofrecerse.",
+            "Es la frontera que separa los productos que pueden fabricarse de los que no son posibles por falta de recursos.",
+            "Es el conjunto de combinaciones de factores productivos o tecnologías en los que se alcanza la producción máxima",
+            "Es la curva que representa el aumento de los recursos."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":1,
+        "enunciado":"¿Cuáles son los problemas económicos fundamentales?",
+        "respuestas":[
+            "El problema de la asignación y el problema de los recursos.",
+            "El problema de los recursos y el problema del volumen de productos a fabricar.",
+            "El problema de la distribución y el problema del capital.",
+            "El problema de la asignación y el problema de la distribución."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":1,
+        "enunciado":"Dados los sistemas económicos de: mercado, mixtos y planificado. ¿Cual posee España?",
+        "respuestas":[
+            "Economía mixta de mercado.",
+            "Economía mixta",
+            "Economía de mercado.",
+            "Economía mixta planificada"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":1,
+        "enunciado":"El sector público se encarga de las participaciones en la generación del:",
+        "respuestas":[
+            "FPP",
+            "TRI",
+            "IPC",
+            "PIB"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":1,
+        "enunciado":"El sector público representa:",
+        "respuestas":[
+            "El conjunto de organismos, instituciones, departamentos y otras organizaciones que dependen del estado o sus agentes.",
+            "La porción de la sociedad activa respecto al flujo de la economía de un país.",
+            "Los grupos organizados de individuos que toman decisiones económicas conjuntas y coherentes.",
+            "Es el encargado de obtener los bienes y servicios que serán consumidos por las economías domésticas."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":1,
+        "enunciado":"La funcion de la curva de demanda de producto es constante y horizontal cuando:",
+        "respuestas":[
+            "Es elástica",
+            "Es unitaria",
+            "Es perfectamente elástica",
+            "Es inelástica"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":1,
+        "enunciado":"La demanda rígida consiste en que :",
+        "respuestas":[
+            "La cantidad consumida del producto no varía al variar el precio.",
+            "El volumen consumido es dependiente respecto del precio.",
+            "Pueda quebrar la venta del producto si las fluctuaciones del precio son considerables.",
+            "Los posibles acuerdos entre empresas competitivas seas imposibles debido a la diferencia de poder adquisitivo."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":1,
+        "enunciado":"¿Qué es el efecto Veblen?",
+        "respuestas":[
+            "La demanda crece cuando se incrementa el precio del producto.",
+            "La demanda baja cuando se incrementa el precio del producto.",
+            "Es el efecto que se produce cuando los consumidores no quieren comprar el producto y baja su consumo.",
+            "El consumo del producto crece cuando baja el precio."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":1,
+        "enunciado":"¿Qué es el equilibrio competitivo?",
+        "respuestas":[
+            "Las empresas tienen un pacto entre ellas de forma que el precio de los productos que venden será el mismo.",
+            "Las empresas no deben tener capacidad para influir en el nivel de precios y pueden producir o dejar de hacerlo cuando estimen oportuno.",
+            "Las empresas compiten por vender el mayor número de productos bajando el precio lo máximo posible.",
+            "Una empresa u otra tiene influencia en el nivel de precios."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":2,
+        "enunciado":"¿ Cuál de las siguientes respuestas no constituye una función de empresa?",
+        "respuestas":[
+            "Función de descuente del producto obtenido.",
+            "Función de asumir riesgos en la actividad económica",
+            "Función social.",
+            "Función de distribución del capital"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":2,
+        "enunciado":"¿Qué entendemos por valor patrimonial o real?",
+        "respuestas":[
+            "Nos referimos al resto de acciones que no cotizan en bolsa",
+            "Es el valor expresado numéricamente en el documento o título valor.",
+            "Resulta de dividir el importe del valor efectivo del patrimonio por el número de acciones.",
+            "Es el valor de la acción en el libre juego de oferta y demanda en el mercado bursátil."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":1,
+        "enunciado":"¿Cuál de las siguientes características no corresponde a la sociedad típicamente capitalista?",
+        "respuestas":[
+            "El capital social está dividido en acciones.",
+            "Necesita capital para construirse y funcionar.",
+            "Tiene carácter impersonal, solo interesa la aportación patrimonial del accionista",
+            "Los socios trabajadores tienen contrato indefinido y jornada completa"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":2,
+        "enunciado":"¿ Qué otros factores reciben los elementos humanos?",
+        "respuestas":[
+            "Factores activos",
+            "Factores preventivos",
+            "Factores pasivos",
+            "Factores persuasivos"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":2,
+        "enunciado":"¿Cuál de las siguiente respuestas no corresponde a los ámbitos de actuación de una empresa?",
+        "respuestas":[
+            "Local",
+            "Comarcal",
+            "Nacional",
+            "Multinacional"
+        ],
+        "correcta":1
+    },
+    {
+        "tema":2,
+        "enunciado":"¿ Qué tipo de empresas serían aquellas que sitúan los recursos naturales en disposición de ser utilizados?",
+        "respuestas":[
+            "Sector secundario",
+            "Sector primario",
+            "Sector cuaternario",
+            "Sector terciario"
+        ],
+        "correcta":1
+    },
+    {
+        "tema":2,
+        "enunciado":"¿ Qué valor resulta de dividir el importe de un valor efectivo del patrimonio por el número de acciones?",
+        "respuestas":[
+            "Indicación de la forma social",
+            "Aceptar el reglamento del Registro Mercantil",
+            "Novedad",
+            "Ninguna de las anteriores"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":2,
+        "enunciado":"Nominativa es una clase de obligación por:",
+        "respuestas":[
+            "La garantía",
+            "Por prima",
+            "Por interés.",
+            "Por la forma"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":2,
+        "enunciado":"¿Quién introdujo el término entrepreneur?",
+        "respuestas":[
+            "Cantillón",
+            "Say",
+            "Schumpeter",
+            "Hervelle"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":2,
+        "enunciado":"¿Cual es la consideración de la empresa en relación a su entorno?",
+        "respuestas":[
+            "Crear riquezas.",
+            "Conocer y crear etapas del proceso.",
+            "Identificar los tipos de distribuciones.",
+            "Considera a la empresa como unidad económica de producción."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":2,
+        "enunciado":"¿Qué fución principal tiene una empresa?",
+        "respuestas":[
+            "Generar puestos de trabajo.",
+            "Generar bienes y servicios.",
+            "Investigar e innovar.",
+            "Dar servicios sin nada a cambio."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":2,
+        "enunciado":"¿Cómo es el capital de las sociedades de responsabilidad limitada?",
+        "respuestas":[
+            "Está dividido en acciones nominativas.",
+            "Está dividido en particiones, indivisibles y acumulables.",
+            "Pertenece al conjunto de propietarios.",
+            "Tiene un carácter impersonal."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":1,
+        "enunciado":"¿Cuál es el conocimiento técnico y económico que poseen el empresario y el grupo humano de la empresa y que permiten el desarrollo de la actividad empresarial?",
+        "respuestas":[
+            "La imagen pública",
+            "Objetivo y meta",
+            "Know-how.",
+            "Cultura de la empresa"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":2,
+        "enunciado":"¿Qué elementos constituyen la empresa?",
+        "respuestas":[
+            "Los elementos humanos y materiales.",
+            "Coordinación y control del proceso productivo.",
+            "Producción continua",
+            "Tecnología"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":2,
+        "enunciado":"¿A que se dedica las empresas del sector secundario?",
+        "respuestas":[
+            "Transforman físicamente unos factores en unos productos.",
+            "Son empresas de transporte, hostelería",
+            "Sitúan los recursos de la naturaleza en disposición de ser utilizados.",
+            "Se dedica a la ganadería, agricultura etc"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":2,
+        "enunciado":"Las empresas pueden ser, según su forma jurídica",
+        "respuestas":[
+            "Privadas y públicas.",
+            "Individuales y societarias.",
+            "Locales y regionales.",
+            "Artesanales y capitalistas."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":2,
+        "enunciado":"¿Qué otra figura es parecida a la comunidad de bienes?",
+        "respuestas":[
+            "Sociedades civiles.",
+            "Sociedad colectiva",
+            "Sociedad cooperativa.",
+            "Sociedad comanditaria simple."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":2,
+        "enunciado":"¿Qué servicio dispone la cátedra de Emprendedores?",
+        "respuestas":[
+            "Formación básica en gestión empresarial en una sesión sobre aspectos estratégicos, financieros y jurídicos.",
+            "Existen dos tipos diferentes de productos.",
+            "Diseño para el Medio Ambiente.",
+            "Estrategias de localización multiplantas."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":3,
+        "enunciado":"¿Qué definimos por sistema?",
+        "respuestas":[
+            "Un conjunto de unidades y objetos entre los cuales existen relaciones.",
+            "Unidad reconstruida donde el todo es igual a las suma de las partes.",
+            "Un conjunto de unidades y objetos de una empresa",
+            "Forma de clasificar a las empresas."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":3,
+        "enunciado":"¿Qué definimos por jerarquía?",
+        "respuestas":[
+            "Estado de un sistema en máximo desorden.",
+            "Un mismo estado final que puede ser alcanzado con combinaciones diferentes de entradas.",
+            "Estructuración de un sistema en subsistemas que impliquen niveles y dependencias.",
+            "Transformaciones de entradas en salidas."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":3,
+        "enunciado":"¿Qué tipos de sistemas desarrollan la cualidad de homeostasia?",
+        "respuestas":[
+            "Los sistemas abiertos.",
+            "Los sistemas cerrados.",
+            "Los sistemas abiertos y los sistemas cerrados.",
+            "Ninguna de las respuestas anteriores."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":3,
+        "enunciado":"Hay muchas clasificaciones de sistemas, pero de especial interés para la economía de la empresa es la clasificación en:",
+        "respuestas":[
+            "Los sistemas abiertos y sistemas de capital.",
+            "Los sistemas de capital y sistemas financieros",
+            "Los sistemas abiertos y los sistemas cerrados.",
+            "Los sistemas financieros y sistemas administrativos."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":3,
+        "enunciado":"¿Cuál de los siguientes elementos conceptuales no caracterizan a la empresa como sistema?",
+        "respuestas":[
+            "Unas funciones características.",
+            "Un conjunto de elementos.",
+            "Un criterio de niveles.",
+            "Un plan común."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":3,
+        "enunciado":"¿A partir de qué criterios se dividen los sistemas?",
+        "respuestas":[
+            "Criterio financiero + Criterio administrativo.",
+            "Criterio de niveles + Criterio funcional.",
+            "Criterio de niveles + Criterio financiero.",
+            "Criterio funcional + Criterio financiero."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":3,
+        "enunciado":"¿Cuál de estas opciones no se encuentra dentro del subsistema de operaciones real o físico?",
+        "respuestas":[
+            "Comercialización.",
+            "Aprovisionamiento.",
+            "Administración estratégica.",
+            "Producción."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":3,
+        "enunciado":"¿Cuál de estas opciones no es un componente ambiental externo del entorno específico relevante para las empresas industriales?",
+        "respuestas":[
+            "Componente de proveedores.",
+            "Componente tecnológico.",
+            "Componente socio-político.",
+            "Componente cultural."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":3,
+        "enunciado":"¿Qué se define por tecnoestructura según Galbraith?",
+        "respuestas":[
+            "Grado de informatización de la estructura de la empresa",
+            "Una empresa debe ser dirigida por un gran número de profesionales expertos en las distintas áreas, no por una sola persona",
+            "Nivel máximo de tecnología que puede alcanzar la empresa",
+            "Nivel tecnológico de los distintos niveles estructurales de la empresa"
+        ],
+        "correcta":1
+    },
+    {
+        "tema":3,
+        "enunciado":"¿Cuáles son las funciones de un directivo?",
+        "respuestas":[
+            "Financiar, planificar, organizar y liderar.",
+            "Planificar, coordinar, liderar y controlar.",
+            "Planificar, organizar y coordinar, liderar y controlar.",
+            "Planificar, organizar y coordinar, controlar y financiar."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":3,
+        "enunciado":"¿Cuál de estos no es unos de los principios generales de los sistemas?",
+        "respuestas":[
+            "Interrelación.",
+            "Totalidad",
+            "No busca una meta",
+            "Inputs y outputs."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":3,
+        "enunciado":"Sobre la tipología de los sistemas, indica la respuesta correcta:",
+        "respuestas":[
+            "El sistema abierto no está en constante interrelación dual con el ambiente.",
+            "Los sistemas abiertos tienen capacidad de crecimiento, cambio, adaptación, al igual que el sistema cerrado.",
+            "El sistema abierto puede competir con otros sistemas, lo que no ocurre con el sistema cerrado.",
+            "Los sistemas cerrados desarrollan la cualidad de homeostasia a través de la autorregulación o autocontrol."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":3,
+        "enunciado":"¿Cuál de estos son elementos conceptuales de la empresa como sistema?",
+        "respuestas":[
+            "Regulación.",
+            "Criterio funcional.",
+            "Liderar.",
+            "Una estructura del sistema"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":3,
+        "enunciado":"Los subsistemas de la empresa se pueden considerar como:",
+        "respuestas":[
+            "Sistemas que forman parte de otro sistema más amplio.",
+            "Prototipos de los sistemas más complejos.",
+            "Un conjunto de elementos ordenados de una estructura organizativa",
+            "Un objeto debajo del sistema"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":3,
+        "enunciado":"¿En qué dos criterios se basan los subsistemas?",
+        "respuestas":[
+            "Criterio funcional y criterio de regulación.",
+            "Criterio de niveles y criterio funcional.",
+            "Criterio funcional y criterio de diferenciación.",
+            "Criterio de niveles y criterio de inversión."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":3,
+        "enunciado":"Seleccione las características de un subsistema de operaciones real o físico.",
+        "respuestas":[
+            "Aprovisionamiento, producción y comercialización.",
+            "Aprovisionamiento, producción y administración estratégica",
+            "Aprovisionamiento, comercialización y financiación.",
+            "Comercialización e inversión."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":3,
+        "enunciado":"Dentro de los subsistemas empresariales, ¿Cual es el objetivo del subsistema de dirección y gestión?",
+        "respuestas":[
+            "La obtención de los bienes y servicios que deberían satisfacer las necesidades detectadas por el subsistema comercial.",
+            "La toma de decisiones tendente a asegurar el logro de los objetivos del sistema",
+            "Detectar las necesidades de los consumidores.",
+            "Captar los datos necesarios para el funcionamiento de la firma"
+        ],
+        "correcta":1
+    },
+    {
+        "tema":3,
+        "enunciado":"Elija la respuesta correcta sobre las organizaciones empresariales:",
+        "respuestas":[
+            "Sistemas parcialmente abiertos y no cerrados.",
+            "Sistemas parcialmente cerrados y no abiertos.",
+            "Sistemas no cerrados ni abiertos.",
+            "Sistemas parcialmente abiertos y parcialmente cerrados."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":3,
+        "enunciado":"Seleccione la definición más apropiada para una organización dirigente o, según Galbraith, tecnoestructura:",
+        "respuestas":[
+            "Empresas que pueden ser dirigidas por una sola persona",
+            "Empresas dirigidas de forma colegiada",
+            "Empresas dirigidas por una asociación.",
+            "Empresas dirigidas de forma colegiada con expertos en las distintas áreas."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":3,
+        "enunciado":"Según Fayol, ¿cuáles es una de las cinco funciones básicas de un directivo?",
+        "respuestas":[
+            "Proveer.",
+            "Liderar.",
+            "Mantener.",
+            "Ahorrar."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Qué afirmación es la correcta?",
+        "respuestas":[
+            "El pasivo refleja la materialización de las inversiones de la empresa y se conoce con el nombre de estructura financiera",
+            "El activo se conoce como la estructura económica de la empresa e indica la variedad y naturaleza de sus recursos financieros.",
+            "El pasivo se conoce como la estructura financiera de la empresa e indica la variedad y naturaleza de sus recursos financieros.",
+            "El activo refleja la materialización de las inversiones de la empresa y se conoce como estructura financiera"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"¿A qué se denomina ciclo?",
+        "respuestas":[
+            "Al conjunto de elementos patrimoniales que tienen características homogéneas.",
+            "A cada uno de los ítems o partidas que integran el patrimonio.",
+            "Al conjunto de operaciones que se repiten periódicamente a lo largo del tiempo.",
+            "Al posible valor de renta"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"Según su función en la empresa, las inversiones se pueden clasificar en:",
+        "respuestas":[
+            "Inversiones de reemplazo, de expansión, de innovación y estratégicas.",
+            "Inversiones de reemplazo, de expansión, simples y no simples.",
+            "Inversiones a corto, medio y largo plazo.",
+            "Inversiones temporales y fijas."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"El Cash-Flow es...",
+        "respuestas":[
+            "Corriente de cobros y pagos que se realizan a lo largo del horizonte temporal de inversión",
+            "Consiste en amortizar cada año la misma cantidad",
+            "Consiste en comparar el beneficio contable con el valor de la inversión.",
+            "Corriente de cobros y pagos que se realizan sin tener en cuenta el horizonte temporal de inversión"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"El valor actual neto (VAN) es:",
+        "respuestas":[
+            "El valor actualizado de todos los rendimientos esperados",
+            "El valor desactualizado de todos los rendimientos esperados",
+            "El valor asociado a una cantidad que se actualiza periódicamente",
+            "El valor añadido a la tasa de rendimiento interno"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Qué son los recursos ajenos?",
+        "respuestas":[
+            "Aquellos que tienen su origen en personas e instituciones ajenas a la empresa",
+            "Aquellos que proceden de la misma empresa",
+            "Aquellos que se elaboran en la misma empresa y se exportan a otras.",
+            "Aquellos que no circulan."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"La parte no repartida de los beneficios pasan a formar parte de las reservas de la empresa. Dichas reservas pueden ser...",
+        "respuestas":[
+            "Legales, tributarias, financieras y especiales.",
+            "Legales, estatutarias, financieras y especiales.",
+            "Por enriquecimiento o de mantenimiento.",
+            "Legales, estatutarias, voluntarias y especiales."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Qué son los recursos propios?",
+        "respuestas":[
+            "Aquellos que tiene su origen dentro y fuera de la empresa",
+            "Aquellos que tienen su origen fuera de la empresa",
+            "Aquellos que tienen su origen en la propia empresa",
+            "Aquellos que tienen origen desconocido"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"El factoring...",
+        "respuestas":[
+            "es una técnica de financiación que tiene que ver con las operaciones de comercio exterior.",
+            "consiste en que una empresa se ocupe de cobrar las facturas de otra empresa cliente.",
+            "son créditos que los proveedores conceden a la empresa",
+            "es un arrendamiento con opción de compra"
+        ],
+        "correcta":1
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Cómo se calculan los beneficios?",
+        "respuestas":[
+            "Costes totales - ingresos totales.",
+            "Ingresos totales - costes totales.",
+            "Costes totales + ingresos totales.",
+            "Ingresos totales - deudas económicas."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":4,
+        "enunciado":"Se denomina masa patrimonial a:",
+        "respuestas":[
+            "El conjunto de cuentas que tienen características homogéneas.",
+            "El conjunto de elementos patrimoniales que tienen características homogéneas.",
+            "El conjunto de bienes, derechos y obligaciones pertenecientes a una persona física o jurídica",
+            "Cada uno de los ítems o partidas que integran el patrimonio."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Con qué nombre se conoce a la expresión A = P + N?",
+        "respuestas":[
+            "Período medio de maduración",
+            "Ecuación del fondo de maniobra",
+            "Ecuación fundamental del patrimonio.",
+            "Subperíodo medio de cobro."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"¿En qué consiste el método de la suma de los dígitos de los años?",
+        "respuestas":[
+            "Consiste en calcular los costes anuales que corresponden a las diversas alternativas y optar por la que tenga menor coste total.",
+            "Consiste en comparar el tipo de interés interno de las posibles inversiones y todos ellos con el tipo de interés calculatorio.",
+            "Consiste en comparar el beneficio contable con el valor de la inversión.",
+            "Consiste en repartir proporcionalmente, en orden inverso, los cargos por depreciación durante los años de vida útil del bien que se amortiza"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":4,
+        "enunciado":"Se denomina fuentes financieras:",
+        "respuestas":[
+            "a aquellos documentos financieros que incorporan una promesa de pago y que pueden intercambiarse en el momento en que se desee.",
+            "a cada uno de los ítems o partidas que integran el patrimonio.",
+            "a las diferentes formas que la empresa tiene a su alcance para conseguir recursos financieros.",
+            "a las personas que aportan ayuda económica a una empresa"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"El valor teórico de una acción viene dado por:",
+        "respuestas":[
+            "VT de una acción = Patrimonio neto / capital social.",
+            "VT de una acción = Patrimonio neto / número de acciones.",
+            "VT de una acción = Patrimonio activo / cotización.",
+            "VT de una acción = número de acciones / capital."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":4,
+        "enunciado":"Algunas de las reservas que existen a causa de la retención de beneficios son:",
+        "respuestas":[
+            "Reserva legal, reservas estatutarias, reservas voluntarias y reservas especiales.",
+            "Reserva legal, reserva patrimonial, reservas singulares y reservas voluntarias.",
+            "Reserva patrimonial, reservas estatutarias, reservas de beneficios y reservas voluntarias.",
+            "Reserva legal, reservas voluntarias, reservas de beneficios y reservas especiales."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"La emisión de empréstitos es una operación compleja que:",
+        "respuestas":[
+            "Capta importantes cantidades de dinero y lo devuelve a corto plazo.",
+            "Capta pequeñas cantidades de dinero y no lo devuelve.",
+            "Capta importantes cantidades de dinero y lo devuelve a largo plazo.",
+            "Capta importantes cantidades de dinero y lo devuelve a largo plazo."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"Al beneficio económico antes de impuesto (BEAI) también se le conoce por el nombre de:",
+        "respuestas":[
+            "Beneficio operativo.",
+            "Beneficio de explotación o bruto.",
+            "Ninguna de las anteriores es correcta",
+            "A y B son correctas."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":4,
+        "enunciado":"Elige la respuesta correcta para la relación entre la Rentabilidad Financiera y la Rentabilidad Económica a través del Grado de Endeudamiento",
+        "respuestas":[
+            "RF > RE (tanto mayor a medida que haya un mayor endeudamiento).",
+            "RF < RE (tanto mayor a medida que haya un mayor endeudamiento).",
+            "RF = RE.",
+            "RF > RE (tanto menor a medida que haya un mayor endeudamiento)."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Cuál de estas opciones es la correcta para describir los elementos que componen el patrimonio?.",
+        "respuestas":[
+            "Bienes, derechos y cuenta",
+            "Derechos, cuenta y beneficios.",
+            "Bienes, derechos y obligaciones.",
+            "Obligaciones, bienes y balance."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Qué es el Cash-Flow o Flujos Netos de Caja?",
+        "respuestas":[
+            "Corriente de beneficios y deudas que se realizan a lo largo del horizonte temporal de la inversión.",
+            "Corriente de deudas y pagos que se realizan a lo largo del horizonte temporal de inversión.",
+            "Corriente de gastos e impuestos que se realizan a lo largo del horizonte temporal de inversión.",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Cómo pueden ser los recursos de una empresa?.",
+        "respuestas":[
+            "Propios.",
+            "Ajenos y propios.",
+            "Ajenos y colectivos.",
+            "Propios y colectivos."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":4,
+        "enunciado":"Los elementos que definen un proyecto de inversión, sin hacer alusión a la financiación, son:",
+        "respuestas":[
+            "El horizonte temporal, la dimensión y el Cash-Flow.",
+            "El horizonte temporal y el Cash-Flow.",
+            "La dimensión, el Cash-Flow y el valor residual.",
+            "El horizonte temporal, la dimensión, el valor residual y el Cash-Flow."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":4,
+        "enunciado":"Dentro de los beneficios retenidos podemos ver varios tipos de reservas:",
+        "respuestas":[
+            "Reservas legal, voluntarias y especiales",
+            "Reservas legal, estatutarias, voluntarias y especiales.",
+            "Reservas voluntarias y estatutarias.",
+            "Reservas especiales y voluntarias."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Cuál de estos beneficios es real?",
+        "respuestas":[
+            "Beneficio neto después de impuestos.",
+            "Beneficio económico comercial.",
+            "Beneficio comercial después de impuestos.",
+            "Beneficio neto rentable."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"Entre los incentivos de la emisión de emprésitos, podemos destacar:",
+        "respuestas":[
+            "La prima de emisión y de reembolso.",
+            "Las obligaciones convertibles y las obligaciones participativas.",
+            "La prima de emisión, la prima de reembolso, las obligaciones convertibles, las obligaciones participativas y las obligaciones indiciadas.",
+            "La prima de reembolso y las obligaciones convertibles."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Qué es la Vida física del proyecto?",
+        "respuestas":[
+            "Es el tiempo hasta la aparición de productos sustitutivos.",
+            "Es el tiempo que transcurre hasta la aparición de nuevas tecnologías que dejan obsoletas a las actuales.",
+            "Es el tiempo que transcurre desde el inicio de un proyecto hasta que sus activos se deterioran.",
+            "Es el tiempo que nos permite la comparación de masas monetarias en diferentes periodos de tiempo."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Que entendemos por depreciación?",
+        "respuestas":[
+            "Tiempo que trascurre hasta la aparición de nuevas tecnologías que dejan obsoletas a las actuales.",
+            "Proceso de pérdida de valor de un bien del inmovilizado desde el momento de su adquisición.",
+            "Proceso de ganancia de valor de un bien del inmovilizado desde el momento de su adquisición.",
+            "Posible valor de los activos en los que se materializó la inversión una vez finaliza el proyecto."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Cuál de las siguientes afirmaciones sobre el patrimonio es falsa?",
+        "respuestas":[
+            "Activo, elementos patrimoniales que constituyen bienes y derechos.",
+            "Pasivo, obligaciones.",
+            "Activo es igual al pasivo exigible mas el neto.",
+            "Neto, recoge todo lo que la empresa debe a sus socios o propietarios."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Qué se entiende por patrimonio?",
+        "respuestas":[
+            "Conjunto de bienes, derechos y obligaciones con nombre pasivo.",
+            "Conjunto de bienes, derechos y obligaciones a una persona física o jurídica,",
+            "Conjunto de ítems, derechos y cuentas.",
+            "Cada uno de los elementos patrimoniales con características homogéneas."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Qué describe el balance?",
+        "respuestas":[
+            "La situación de la empresa en un momento dado.",
+            "El conjunto de partidas que integran el patrimonio.",
+            "El nombre de estructura económica",
+            "La relación entre financiación e inversión."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Cuál es el criterio más utilizado para la ordenación de los activos y pasivos?",
+        "respuestas":[
+            "Natural.",
+            "Temporal.",
+            "Aleatorio.",
+            "Circular."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":4,
+        "enunciado":"Si yo actualizo el Cash-Flow, ¿tardaré más o tardaré menos en alcanzar el pay back?",
+        "respuestas":[
+            "Más.",
+            "Menos.",
+            "Igual.",
+            "Depende del coste del capital."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"Si tengo un problema en el que me de 3 plazos de recuperación distintos, a=7 años, b= 5 años, c= 3 años y d=1 año, ¿cuál habría que escoger?",
+        "respuestas":[
+            "a",
+            "b",
+            "c",
+            "d"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":4,
+        "enunciado":"A mayor cash-flow bruto:",
+        "respuestas":[
+            "Mayor amortización.",
+            "Mayores impuestos.",
+            "Mayores ingresos.",
+            "Mayor pay back."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":4,
+        "enunciado":"Entre las fuentes financieras se puede distinguir:",
+        "respuestas":[
+            "Recursos propios y Recursos libres.",
+            "Recursos propios y Recursos financieros.",
+            "Recursos propios y Recursos ajenos.",
+            "Recursos propios y Recursos comerciales."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"La autofinanciación tiene dos vertientes:",
+        "respuestas":[
+            "Autofinanciación por enriquecimiento y Autofinanciación de mantenimiento.",
+            "Autofinanciación por comercio y Autofinanciación por coste.",
+            "Autofinanciación por capital y Autofinanciación de beneficio.",
+            "Autofinanciación por cotización y Autofinanciación de renta"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"Las dos modalidades de leasing son:",
+        "respuestas":[
+            "Leasing capital y Leasing beneficiario.",
+            "Leasing de crédito y Leasing gradual.",
+            "Leasing monetario y Leasing jurídico.",
+            "Leasing financiero y Leasing operativo."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":4,
+        "enunciado":"¿De qué manera no puede llamarse el beneficio económico?",
+        "respuestas":[
+            "Beneficio operativo.",
+            "Beneficio sistemático.",
+            "Beneficio de explotación.",
+            "Beneficio bruto."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":4,
+        "enunciado":"¿A qué hace referencia el ciclo corto de una empresa?",
+        "respuestas":[
+            "Al período de tiempo que tarda en recuperarse las inversiones efectuadas en los elementos que contribuyen a la producción y venta de los bienes y que se agotan en corto plazo.",
+            "Al período de tiempo que tarda en recuperarse las inversiones efectuadas en los elementos que contribuyen al desarrollo del producto hasta que empieza a venderse.",
+            "Al periodo de tiempo que tarda la empresa en recuperar sus inversiones en bienes permanentes en un corto plazo.",
+            "Al periodo de tiempo que tarda en producir beneficios los primeros productos vendidos."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"Se denomina elemento patrimonial:",
+        "respuestas":[
+            "A cada uno de los ítems o partidas que integran el patrimonio.",
+            "A cada uno de los ítems que tienen características homogéneas.",
+            "A cada una de las cuentas que integran el patrimonio.",
+            "A cada uno de los bienes que integran el patrimonio."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Cuáles son los elementos que concurren en toda inversión?",
+        "respuestas":[
+            "Un sujeto que invierte, un objeto en que se invierte, el coste que supone la renuncia a una satisfacción en el presente y los beneficios que obtienes en un futuro.",
+            "El coste que supone la renuncia a una satisfacción en el presente, un sujeto que invierte, un objeto en que se invierte y la esperanza de unos ingresos futuros.",
+            "La esperanza de unos ingresos futuros, un sujeto que invierte, el tiempo que dura la inversión y un objeto en que se invierte.",
+            "Un sujeto que invierte, un objeto en que se invierte, el tiempo que dura la inversión y los beneficios que obtienes en un futuro."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":4,
+        "enunciado":"En la selección de inversiones, ¿Qué modelos estáticos se utilizan?",
+        "respuestas":[
+            "Tasa de rendimiento contable, valor actual neto y métodos de saldos decrecientes.",
+            "Método de cuotas fijas, flujo neto de caja por unidad monetaria comprometida y tasa de rendimiento interno.",
+            "Plazo de recuperación del capital, criterio de comparación de costes, valor actual neto y flujo neto de caja por unidad monetaria comprometida",
+            "Plazo de recuperación del capital, tasa de rendimiento contable, flujo neto de caja por unidad monetaria comprometida y criterio de la comparación de costes."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Cuáles son todos los criterios de inversión?",
+        "respuestas":[
+            "La duración de las inversiones, la corriente de cobros y pagos, el objeto de la inversión, y las inversiones en el seno de la empresa",
+            "El objeto de la inversión, la corriente de cobros y pagos, el horizonte temporal y el desembolso inicial de la inversión.",
+            "La duración de las inversiones, la corriente de cobros y pagos, las relaciones existentes entre las diversas inversiones, el objeto de la inversión y las inversiones en el seno de la empresa",
+            "Las inversiones en el seno de la empresa, las relaciones existentes entre las diversas inversiones, la corriente de cobros y pagos, el desembolso inicial de inversión y el objeto de la inversión."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Qué se denomina como fuente financiera?",
+        "respuestas":[
+            "Recursos propios y recursos ajenos.",
+            "Un inversor o un banco.",
+            "La forma que tiene la empresa de conseguir recursos financieros.",
+            "La suma de entidades que invierten dinero en una empresa"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"Además de las reservas voluntarias y las reservas especiales, ¿Qué otro tipo de reservas de beneficios retenidos existen?",
+        "respuestas":[
+            "Reserva fiscal y estatutaria",
+            "Reserva internacional y estatal.",
+            "Reserva legal y estatutaria",
+            "Reserva fiscal y legal."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":4,
+        "enunciado":"En la emisión de empréstitos, ¿Cuáles de estos incentivos utilizan las empresas para atraer compradores?",
+        "respuestas":[
+            "La prima de reembolso, las obligaciones indiciadas y las obligaciones convertibles.",
+            "La prima de emisión, las obligaciones convertibles y el factoring.",
+            "El leasing operativo, las obligaciones indiciadas y los préstamos.",
+            "La prima de reembolso, las obligaciones participativas y el descuento comercial."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":4,
+        "enunciado":"¿Qué es el confirming?",
+        "respuestas":[
+            "Una técnica de financiación que tiene que ver esencialmente con las operaciones de comercio interior.",
+            "Una técnica de financiación que tiene que ver esencialmente con las operaciones de comercio exterior.",
+            "Una técnica de financiación que facilita el cobro al exportador y el pago al importador.",
+            "Una técnica de financiación que tiene que ver esencialmente con las operaciones de comercio interior y exterior."
+        ],
+        "correcta":1
+    }   
+]
