@@ -5,9 +5,9 @@ export default class Respuesta extends React.Component{
         super(props);
 
         this.state = {
-            claseCorrecta:"respuesta bg-success text-success",
-            claseIncorrecta: "respuesta bg-danger text-danger",
-            clasePorDefecto:"respuesta default"
+            claseCorrecta:"Respuesta bg-success text-success",
+            claseIncorrecta: "Respuesta bg-danger text-danger",
+            clasePorDefecto:"Respuesta default"
         }
 
         this.establecerEstilo = this.establecerEstilo.bind(this);
@@ -16,7 +16,7 @@ export default class Respuesta extends React.Component{
     establecerEstilo(){
         let clase = this.state.clasePorDefecto
         
-        if(this.props.indice === this.props.indiceSeleccionado)
+        if(this.props.indice === this.props.respuestaSeleccionada)
         {
             if(this.props.esCorrecta)
                 clase = this.state.claseCorrecta 
