@@ -2958,7 +2958,7 @@
     },
     {
         "tema":12,
-        "enunciado":El método para resolver la problemática de la programación de proyectos a coste mínimo es:"",
+        "enunciado":"El método para resolver la problemática de la programación de proyectos a coste mínimo es:",
         "respuestas":[
             "A) La matriz de Booz.",
             "B) El Algoritmo de Lewis-Hamilton.",
