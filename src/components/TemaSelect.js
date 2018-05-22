@@ -4,7 +4,7 @@ export default class TemaSelect extends React.Component{
 
     render(){
         const temaStr = "Tema ";
-        const temaInt = [1,2,3,4,5,6,8,9]
+        const temaInt = [1,2,3,4,5,6,8,9,10,12]
         return (
             <div className="TemaSelect">
                 <label className="TemaSelect_label"> Saltar a otro tema 
