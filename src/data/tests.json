@@ -2460,5 +2460,555 @@
             "D) Fuentes de abastecimiento, mercados, medios de transporte, mano de obra, suministros básicos, clima, legislación, impuestos y servicios públicos, actitudes hacia la empresa, terrenos-construcción y otros."    
         ],
         "correcta":0
-    }
+    },
+    {
+        "tema":10,
+        "enunciado":"Los motivos que justifican que una redistribución sea necesaria se deben a cambios en:",
+        "respuestas":[
+            "A) El volumen, la tecnología y procesos y en la seguridad",
+            "B) La acumulación de materiales, la frecuencia y en el producto.",
+            "C) El volumen, la tecnología y procesos y el producto.",
+            "D) La acumulación de materiales, la frecuencia y en el mercado."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":10,
+        "enunciado":"Los objetivos básicos para conseguir una buena distribución son:",
+        "respuestas":[
+            "A) Los materiales, el mercado y la tecnología",
+            "B) La unidad, la circulación mínima, la seguridad y la flexibilidad",
+            "C) La unidad, el mercado y la tecnología",
+            "D) Ninguna de las respuestas anteriores es correcta"
+        ],
+        "correcta":1
+    },
+    {
+        "tema":10,
+        "enunciado":"Los factores que influyen sobre la distribución en planta se encuadran en grupos, estos son:",
+        "respuestas":[
+            "A) Los materiales, la maquinaria y la mano de obra",
+            "B) El movimiento, las esperas, los servicios auxiliares.",
+            "C) El edificio, los cambios y la mano de obra",
+            "D) Ninguna de las respuestas anteriores es correcta"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":10,
+        "enunciado":"La distribución por procesos tiene como ventaja:",
+        "respuestas":[
+            "A) La dificultad de fijar las rutas y programas de trabajo.",
+            "B) Una avería en la maquinaria no interrumpe toda una serie de operaciones.",
+            "C) El tiempo total de fabricación es mayor debido a los transportes entre centros.",
+            "D) Requiere mayor superficie."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":10,
+        "enunciado":"La distribución por productos se emplea para fabricar:",
+        "respuestas":[
+            "A) Multitud de productos diferentes",
+            "B) Un reducido número de productos iguales",
+            "C) Un reducido número de productos diferentes.",
+            "D) Pequeños lotes de productos."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":10,
+        "enunciado":"La distribución celular:",
+        "respuestas":[
+            "A) Obliga a cambiar constantemente de maquinaria",
+            "B) obliga a los trabajadores a desplazarse hasta la pieza que se está fabricando, ya que esta se sitúa en un punto fijo.",
+            "C) Reduce el número de componentes a diseñar y asigna cada familia de piezas a distintas células de fabricación.",
+            "D) Ninguna respuesta es correcta"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":10,
+        "enunciado":"La distribución de punto fijo:",
+        "respuestas":[
+            "A) Consiste en localizar el producto en una posición fija siendo los trabajadores, maquinas, herramientas, etc, los que se mueven alrededor de este.",
+            "B) También se llama distribución de tipo job-shop.",
+            "C) Se utiliza en la fabricación de componentes pequeños de coches.",
+            "D) No requiere equipos específicos."
+        ],
+        "correcta":0
+    },
+        {
+        "tema":10,
+        "enunciado":"En el método de distribución por procesos se emplean las siguientes técnicas:",
+        "respuestas":[
+            "A) Análisis de la secuencia de operaciones y análisis de carga-distancia",
+            "B) Restricciones de zona, de procedencia y de posición.",
+            "C) Cadena de producción y equilibrado de línea",
+            "D) Análisis de carga-distancia y cadena de producción."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":10,
+        "enunciado":"La cadena de producción o montaje se define como:",
+        "respuestas":[
+            "A) Método para distribuir departamentos operativos interrelacionados.",
+            "B) Sucesión de puestos de trabajo fijos en los que se realiza una serie de operaciones especificas.",
+            "C) Área de trabajo donde el trabajador y/o maquina realiza una serie de actividades predeterminadas.",
+            "D) Cada una de las operaciones indivisibles que forman el proceso."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":10,
+        "enunciado":"El tiempo de ciclo se define como:",
+        "respuestas":[
+            "A) La diferencia entre el tiempo de servicio y el tiempo productivo.",
+            "B) Tiempo necesario para realizar todos los elementos de un puesto para cada unidad de producto.",
+            "C) La diferencia entre el tiempo productivo y el tiempo improductivo .",
+            "D) Tiempo disponible en cada puesto para ejecutar el trabajo"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":10,
+        "enunciado":"Completa según proceda: La distribución en planta de una instalación es el proceso de determinación de la mejor ordenación de los factores de modo que constituyan un sistema _____ capaz de alcanzar los objetivos de forma adecuada y _____.",
+        "respuestas":[
+            "A) productivo, económica",
+            "B) productivo, eficiente.",
+            "C) económico, ineficaz.",
+            "D) óptimo, rápida"
+        ],
+        "correcta":1
+    },
+        {
+        "tema":10,
+        "enunciado":"Los primeros objetivos a seguir para una buena distribución en planta son:",
+        "respuestas":[
+            "A) Seguridad, control, económica, visión objetiva",
+            "B) Circulación mínima, flexibilidad, facilidad, útil",
+            "C) flexibilidad, unidad, control, fiabilidad",
+            "D) unidad, flexibilidad, circulación mínima, seguridad"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":10,
+        "enunciado":"El factor que influye en la distribución en planta afectado por el ruido, temperatura, ventilación y luminosidad es:",
+        "respuestas":[
+            "A) Los servicios auxiliares",
+            "B) La maquinaria",
+            "C) La mano de obra",
+            "D) Los materiales"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":10,
+        "enunciado":"La distribución en planta por procesos suele emplear:",
+        "respuestas":[
+            "A) poca mano de obra",
+            "B) maquinaria pesada",
+            "C) procedimientos de alta calidad",
+            "D) maquinaria genérica adaptable"
+        ],
+        "correcta":3
+    },
+        {
+        "tema":10,
+        "enunciado":"La distribución por productos se caracteriza por:",
+        "respuestas":[
+            "A) Las máquinas se agrupan en células que funcionan como islas de distribución por productos en medio de una distribución por procesos de toda la planta",
+            "B) El producto se encuentra fijado, siendo los trabajadores y las máquinas las que se mueven a su alrededor.",
+            "C) Ninguna de las respuestas son correctas.",
+            "D) Agrupar en un departamento todas las operaciones necesarias para fabricar un producto, colocando cada operación lo más cerca posible de su predecesora"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":10,
+        "enunciado":"Los inconvenientes de la distribución por productos los:",
+        "respuestas":[
+            "A) Elevada inversión en maquinaria, menor flexibilidad en la ejecución, menor cualificación de operarios, mayores costes de fabricación, detención de la producción por avería",
+            "B) Elevada inversión en maquinaria, menor flexibilidad en la ejecución, mayor superficie de suelo ocupado y mayor cualificación de operarios.",
+            "C) Elevada inversión en maquinaria, mayor superficie de suelo ocupado, mayor manipulación de materiales y elevada inversión en maquinaria",
+            "D) Menor flexibilidad en la ejecución, menor cualificación de operarios, mayor manipulación de materiales, mayor superficie de suelo ocupado y menor cualificación de operarios."
+        ],
+        "correcta":0
+    },
+        {
+        "tema":10,
+        "enunciado":"Los principales inconvenientes de la distribución celular son:",
+        "respuestas":[
+            "A) Duplicidad de equipamiento necesario, dificultad de establecer células de fabricación en determinados tipos de procesos, aumento del nivel de inventario.",
+            "B) Duplicidad de equipamiento necesario, dificultad de establecer células de fabricación en determinados tipos de procesos, mayor inversión en maquinaria y necesidad de trabajadores polivalentes.",
+            "C) Aumento del nivel de inventario, aumento de los costes asociados al flujo de materiales y aumento del tiempo y costes de formación.",
+            "D) Duplicidad de equipamiento necesario, aumento de los tiempos de cambio de la maquinaria, aumento de los costes asociados al flujo de materiales y mayor inversión en maquinaria"
+        ],
+        "correcta":1
+    },
+    {
+        "tema":10,
+        "enunciado":"Las restricciones del equilibrado de la línea son:",
+        "respuestas":[
+            "A) De posición, de estructuras fijas, de movilidad y de precedencia",
+            "B) De zona, de movilidad, de precedencia y de ubicación.",
+            "C) De precedencia, de zona, de posición y de estructuras fijas.",
+            "D) De movilidad, de zona, de ubicación y de estructuras fijas."
+        ],
+        "correcta":2
+    },
+        {
+        "tema":10,
+        "enunciado":"El método heurístico de Kilbridge y Wester permite:",
+        "respuestas":[
+            "A) Soluciones óptimas, garantizando que sean viables.",
+            "B) Soluciones aceptables, garantizando que sean óptimas.",
+            "C) Soluciones aceptables, sin garantizar que sean óptimas.",
+            "D) Ninguna de las anteriores."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":10,
+        "enunciado":"La pérdida del equilibrio de cada puesto de trabajo se define como:",
+        "respuestas":[
+            "A) El cociente entre el tiempo de ciclo y el tiempo de servicio del puesto.",
+            "B) El cociente entre el tiempo de servicio del puesto y el tiempo de ciclo.",
+            "C) El cociente entre el tiempo de ciclo y el tiempo muerto de cada puesto.",
+            "D) El cociente entre el tiempo muerto de cada puesto y el tiempo de ciclo."
+        ],
+        "correcta":3
+    },
+        {
+        "tema":10,
+        "enunciado":"¿Cómo podemos definir la distribución de planta?",
+        "respuestas":[
+            "A) Como el proceso de la mejor ordenación de los factores no disponibles.",
+            "B) Como el proceso de la mejor ordenación de los factores disponibles.",
+            "C) Como el proceso de la peor ordenación de los factores disponibles.",
+            "D) Ninguna de las anteriores es correcta"
+        ],
+        "correcta":1
+    },
+        {
+        "tema":10,
+        "enunciado":"Objetivos de la distribución en planta:",
+        "respuestas":[
+            "A) Unidad, circulación máxima, seguridad y flexibilidad",
+            "B) Unidad, circulación mínima, protección y flexibilidad",
+            "C) Protección, seguridad, trabajo y producción máxima",
+            "D) Unidad, circulación mínima, seguridad y flexibilidad"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":10,
+        "enunciado":"¿A qué queda estrechamente ligado el estudio y la mejora de métodos?",
+        "respuestas":[
+            "A) La maquinaria",
+            "B) Los materiales.",
+            "C) Distribución en planta",
+            "D) Distribución de instalaciones."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":10,
+        "enunciado":"¿Con qué otro nombre se conoce la distribución por procesos?",
+        "respuestas":[
+            "A) Tipo job-shop.",
+            "B) Tipo cash-flow.",
+            "C) Tipo float.",
+            "D) Ninguna es correcta"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":10,
+        "enunciado":"Indica cual de las siguientes respuestas es una ventaja de la distribución por procesos:",
+        "respuestas":[
+            "A) Menor inversión en maquinaria",
+            "B) Mejora del proceso de control.",
+            "C) Elevada flexibilidad",
+            "D) Todas las respuestas son correctas."
+        ],
+        "correcta":3
+    },
+        {
+        "tema":10,
+        "enunciado":"Indica que tipo de distribución supone desarrollar un sistema de codificación de los distintos componentes que forman parte de los productos fabricados por la organización",
+        "respuestas":[
+            "A) Distribución De Punto Fijo.",
+            "B) Distribución por Productos.",
+            "C) Distribución Celular.",
+            "D) Distribución por Procesos."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":10,
+        "enunciado":"¿Cómo podemos definir la cadena de producción o montaje?",
+        "respuestas":[
+            "A) Trata de distribuir departamentos operativos interrelacionados y no existen limitaciones de forma o dimensión de las instalaciones.",
+            "B) Como una sucesión de puestos de trabajos fijos en los que se realizan operaciones específicas.",
+            "C) Como una sucesión de puestos de trabajos variables en los que se realizan operaciones específicas.",
+            "D) Ninguna de las respuestas anteriores es correcta"
+        ],
+        "correcta":1
+    },
+    {
+        "tema":10,
+        "enunciado":"¿Qué tipo de restricciones motivan que el producto deba situarse en una determinada posición en relación a los operarios?",
+        "respuestas":[
+            "A) Restricciones de precedencia",
+            "B) Restricciones de zona",
+            "C) Restricciones de posición.",
+            "D) Restricciones de estructuras fijas."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":10,
+        "enunciado":"Selecciona la definición correcta para tiempo muerto:",
+        "respuestas":[
+            "A) Diferencia entre el tiempo de ciclo y el tiempo de servicio.",
+            "B) Cada una de las operaciones indivisibles que forman el proceso.",
+            "C) Lugares donde se realiza cada grupo de elementos de trabajo.",
+            "D) Tiempo disponible en cada puesto para ejecutar el trabajo."
+        ],
+        "correcta":0
+    },
+        {
+        "tema":10,
+        "enunciado":"La pérdida del equilibrio de cada puesto de trabajo se define como:",
+        "respuestas":[
+            "A) El cociente entre el tiempo de servicio de cada puesto y el tiempo de muerto.",
+            "B) El cociente entre el tiempo muerto de cada puesto y el tiempo de ciclo.",
+            "C) El producto del tiempo muerto de cada puesto y el tiempo de ciclo.",
+            "D) El producto del tiempo de servicio de cada puesto y los elementos de trabajo."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":12,
+        "enunciado":"Un proyecto tiene habitualmente",
+        "respuestas":[
+            "A) Justificación especifica",
+            "B) Presupuesto, inicio y fines específicos.",
+            "C) La participación y recursos de varios departamentos.",
+            "D) Todas las anteriores."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":12,
+        "enunciado":"Las etapas en la dirección de un proyecto son:",
+        "respuestas":[
+            "A) Planificación, programación, ejecución y control.",
+            "B) Estudio, análisis, toma de decisiones, gestión.",
+            "C) Compra de suministros, fabricación, etiquetado, venta de capital",
+            "D) Programación, rastreo, adaptación, optimización"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":12,
+        "enunciado":"Los estándares de desempeño pueden ser",
+        "respuestas":[
+            "A) Afirmativos o negativos.",
+            "B) Inductivos o Desiderativos.",
+            "C) Cuantitativos o Cualitativos.",
+            "D) Intuitivos o deductivos"
+        ],
+        "correcta":2
+    },
+    {
+        "tema":12,
+        "enunciado":"¿Cuál es el último paso para conseguir que el desempeño real se ajuste al planificado?",
+        "respuestas":[
+            "A) Contrastar los resultados.",
+            "B) Desarrollar acciones correctivas.",
+            "C) Informar de los resultados.",
+            "D) Establecimiento de estándares"
+        ],
+        "correcta":1
+    },
+    {
+        "tema":12,
+        "enunciado":"El ámbito de control se define como",
+        "respuestas":[
+            "A) Relación entre el número de directivos y el de subordinados.",
+            "B) Relación entre el personal de administración y de seguridad",
+            "C) Espacio destinado a oficinas de directivos.",
+            "D) Zona en la que se sitúan cámaras de vigilancia"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":12,
+        "enunciado":"¿Qué nombre recibe el grafico que nos permite conocer la relación entre las distintas actividades y la duración prevista del proyecto?",
+        "respuestas":[
+            "A) CPM.",
+            "B) PERT.",
+            "C) GANTT.",
+            "D) Ninguna de las anteriores."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":12,
+        "enunciado":"¿Cuáles de las siguientes parejas de gráficos son similares y en muchos casos se habla de ellos de forma conjunta?",
+        "respuestas":[
+            "A) GANTT-PERT.",
+            "B) PERT-CPM.",
+            "C) CPM-GANTT.",
+            "D) Ninguna de las anteriores."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":12,
+        "enunciado":"¿Cuál es la finalidad del análisis CPM?",
+        "respuestas":[
+            "A) Relacionar el orden de la realización de las actividades.",
+            "B) Determinar si el proyecto podrá finalizar en el plazo establecido.",
+            "C) Determinar cuáles son las actividades criticas.",
+            "D) Todas las anteriores."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":12,
+        "enunciado":"¿Qué tres tiempos aparecen en el grafo PERT?",
+        "respuestas":[
+            "A) Pesimista-Normal-Optimista",
+            "B) Improbable-Probable-Optimista",
+            "C) Pesimista-Improbable-Optimista",
+            "D) Critico-Aceptable-Optimista"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":12,
+        "enunciado":"El análisis funcional entre coste y tiempo de ejecución de una actividad se denomina",
+        "respuestas":[
+            "A) Proyecto programado.",
+            "B) Programa de evaluación y revisión técnica)",
+            "C) Método del camino critico.",
+            "D) Programación de proyectos de coste mínimo"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":12,
+        "enunciado":"Las cuatro etapas de la dirección de proyectos son:",
+        "respuestas":[
+            "A) Regulación, restricción de comportamiento, información de los resultados y ejecución.",
+            "B) Planificación, desarrollo de acciones correctivas, control de eficiencia y ejecución.",
+            "C) Rastreo de variables, verificación, regulación y medición del desempeño.",
+            "D) Planificación, programación, ejecución y control."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":12,
+        "enunciado":"Según el momento de efectuar el control, el proceso de control puede ser:",
+        "respuestas":[
+            "A) Control preventivo, control permanente y control a posteriori.",
+            "B) Control permanente, control rastreador y control de eficiencia",
+            "C) Control programado, control rastreador, control adaptativo y control óptimo.",
+            "D) Ninguna de las anteriores."
+        ],
+        "correcta":0
+    },
+    {
+        "tema":12,
+        "enunciado":"Los tipos de criterios de clasificación del proceso de control son:",
+        "respuestas":[
+            "A) Según la programación, según la ejecución y según el desarrollo de acciones correctivas.",
+            "B) Según el momento de efectuar el control, según la finalidad del control y según el surgimiento de las variables-norma",
+            "C) Según el control de eficiencia y según el control de regularidad",
+            "D) Según la finalidad del control y según las técnicas de planificación del control."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":12,
+        "enunciado":"El ámbito de control más conveniente es:",
+        "respuestas":[
+            "A) El ámbito de control amplio.",
+            "B) El ámbito de control reducido.",
+            "C) Aquel que surge de la intersección entre las curvas de costes de supervisión y de los costes derivados por la pérdida de control.",
+            "D) Aquel que surge del análisis de las diferentes técnicas de planificación y control de proyectos."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":12,
+        "enunciado":"El ámbito de control se define como:",
+        "respuestas":[
+            "A) La diferencia entre el ámbito de control amplio y el ámbito de control reducido",
+            "B) La intersección entre las curvas de costes de supervisión y de los costes derivados por la pérdida de control.",
+            "C) La relación entre la comunicación de los niveles altos y bajos de la organización.",
+            "D) La relación entre el número de directivos y el número de subordinados."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":12,
+        "enunciado":El método para resolver la problemática de la programación de proyectos a coste mínimo es:"",
+        "respuestas":[
+            "A) La matriz de Booz.",
+            "B) El Algoritmo de Lewis-Hamilton.",
+            "C) El método de Allen.",
+            "D) El Algoritmo de Ackoff-Sasieni."
+        ],
+        "correcta":3
+    },
+    {
+        "tema":12,
+        "enunciado":"La principal diferencia entre el Método del Camino Crítico (CPM) y el Método PERT es:",
+        "respuestas":[
+            "A) El conocimiento del coste de cada actividad",
+            "B) El conocimiento de la duración de la actividad",
+            "C) El método de representación de las actividades y de los nudos en el diagrama o grafo.",
+            "D) La existencia de uno o varios caminos críticos."
+        ],
+        "correcta":1
+    },
+    {
+        "tema":12,
+        "enunciado":"Las técnicas de planificación y control de proyectos más utilizadas son:",
+        "respuestas":[
+            "A) Los gráficos Gantt, el método CPM y el método PERT.",
+            "B) Los gráficos Glurp, el método APM y el método CRAT.",
+            "C) Los gráficos Kelly, los gráficos Walker y el método Gantt.",
+            "D) El método Allen, el método Booz y el método Lockheed"
+        ],
+        "correcta":0
+    },
+    {
+        "tema":12,
+        "enunciado":"La duración de una actividad ficticia es:",
+        "respuestas":[
+            "A) Dependiente del número de nudos.",
+            "B) Dependiente del número de actividades",
+            "C) Siempre igual a 0.",
+            "D) Dependiente del número de nudos y del número de actividades."
+        ],
+        "correcta":2
+    },
+    {
+        "tema":12,
+        "enunciado":"En el método PERT se realizan diversas estimaciones de tiempo, ¿cuáles son?",
+        "respuestas":[
+            "A) Tiempo normal y tiempo variable.",
+            "B) Tiempo pesimista, tiempo normal y tiempo optimista",
+            "C) Tiempo de acción, tiempo neutro y tiempo de reacción.",
+            "D) Tiempo afligido, tiempo corriente y tiempo alegre."
+        ],
+        "correcta":1
+    }   
 ]
