@@ -9,6 +9,11 @@
 # production
 /build
 
+# deployment
+.firebaserc
+firebase.json
+storage.rules
+
 # misc
 .DS_Store
 .env.local
