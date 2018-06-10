@@ -171,7 +171,7 @@
             "Los agentes económicos.",
             "Las empresas."
         ],
-        "correcta":3
+        "correcta":2
     },
     {
         "tema":1,
@@ -396,6 +396,17 @@
     {
         "tema":2,
         "enunciado":"¿ Qué valor resulta de dividir el importe de un valor efectivo del patrimonio por el número de acciones?",
+        "respuestas":[
+            "Valor nominal",
+            "Valor de mercado",
+            "Valor de cotización en bolsa",
+            "Valor real"
+        ],
+        "correcta":3
+    },
+    {
+        "tema":2,
+        "enunciado":"¿Cuál de los siguientes requisitos para nombrar una S.A. dice que no se podrá adoptar una denominación idéntica a la de otra sociedad ya existente?",
         "respuestas":[
             "Indicación de la forma social",
             "Aceptar el reglamento del Registro Mercantil",
@@ -743,7 +754,7 @@
             "Mantener.",
             "Ahorrar."
         ],
-        "correcta":0
+        "correcta":1
     },
     {
         "tema":4,
@@ -1772,7 +1783,7 @@
         "tema":6,
         "enunciado":"Gráficamente, los costes fijos se representan como:",
         "respuestas":[
-            "Gráficamente, los costes fijos se representan como:",
+            "A) Una recta paralela al eje de abscisas",
             "B) Una recta perpendicular al eje de abscisas",
             "C) Una recta secante al eje de abscisas",
             "D) Ninguna de las anteriores"    
