@@ -2026,8 +2026,8 @@
         "enunciado":"El coste total medio o coste unitario total, proviene del cociente de:",
         "respuestas":[
             "A) variación del coste total entre la variación de cantidad producida",
-            "",
-            "",
+            "B) coste total entre el número de producidad correspondientes.",
+            "C) coste fijo entre el número de producidad correspondientes.",
             "D) coste variable entre el volumen de producción correspondientes."    
         ],
         "correcta":1
@@ -2063,7 +2063,7 @@
             "C) El IPG se calcula mediante la resta entre la productividad entre dos períodos cualesquiera",
             "D) Se denomina productividad marginal a las variaciones de la productividad"    
         ],
-        "correcta":0
+        "correcta":1
     },
     {
         "tema":6,
